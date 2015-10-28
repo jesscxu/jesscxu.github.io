@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+
+    <meta charset="utf-8">
+    <style>
+
+    .legend {
+    padding: 5px;
+    box-shadow: 2px 2px 1px #888;
+    background: yellow;
+}
+
+text {
+    font: 10px sans-serif;
+}
+
+.node:hover {
+    fill: white;
+}
+
+.tooltip {
+        position: absolute;
+        width: 200px;
+        height: auto;
+        padding: 10px;
+        background-color: white;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        pointer-events: none;
+}
+
+
+
+
+
+    </style>
+
+    <body>
+        <script src="http://d3js.org/d3.v3.js"></script>
+        <script>
+
+        // Canvas of Page
+var diameter = 960,
+    format = d3.format(",d"),
+    color = d3.scale.category10();
+
+
+// Type of D3 Layeout: Pack/Bubble
+var bubble = d3.layout.pack()
+    .sort(null)
+    .size([diameter, diameter])
+    .padding(10);
+
+// Body of Whole Page
+var svg = d3.select("body").append("svg")
+    .attr("width", diameter)
+    .attr("height", diameter)
+    .attr("class", "bubble");
+
+
+// Foot Note
+svg.append("svg:text")
+     .attr("x", 500)
+     .attr("y", diameter - 50)
+     .style("font-size", "15px")
+     .text("* Size of bubble corresponds to number of comments in issue");
+
+// Render Data in the JSON file
+d3.json("/json/bubble.json", function(error, root) {
+  var node = svg.selectAll(".node")
+      .data(bubble.nodes(classes(root))
+      .filter(function(d) { return !d.children; }))
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+      .on("mouseover", function(d) {
+        var xPosition = d.x + 20
+        var yPosition = d.y + 20
+
+
+        d3.selectAll("div")
+          .attr("class", "tooltip")
+          .append("svg")
+          .append("rect")
+          .attr("x", xPosition)
+          .attr("y", yPosition)
+          .attr("height", 10)
+          .attr("width", 10)
+          .attr("fill", "blue")
+        svg.append("text")
+          .attr("class", "tooltip")
+          .attr("x", xPosition)
+          .attr("y", yPosition)
+          .attr("text-anchor", "middle")
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "11px")
+          .attr("font-weight", "bold")
+          .attr("fill", "black")
+          .text(d.className)
+        })
+      .on("mouseout", function() {
+        //Remove the tooltip
+        d3.select(".tooltip").remove();
+        })
+
+  
+
+  node.append("title")
+      .text(function(d) { return d.className + ": Comments = " + format(d.value - 1); });
+
+  node.append("circle")
+      .attr("r", function(d) { return d.r; })
+      .style("fill", function(d) { return color(d.packageName); });
+
+  node.append("text")
+      .attr("dy", ".3em")
+      .style("text-anchor", "middle")
+      .text(function(d) { return d.className.substring(0, d.r / 3); });
+
+// Title
+  var title = svg.append("g")
+      .attr("x", diameter / 4)
+      .attr("y", 50)
+      .attr("height", 20)
+      .attr("width", 100);
+
+  title.append("text")
+        .attr("x", diameter / 4)
+        .attr("y", 50)
+        .text("Issues of " + root.name + " Repo Grouped by LABELS")
+        .style("font-size", "16px")
+
+
+// Create Legend
+  var legend = svg.append("g")
+    .attr("class", "legend")
+    .attr("x", diameter - 100)
+    .attr("y", 25)
+    .attr("height", 100)
+    .attr("width", 100);
+
+  legend.append("text")
+      .attr("x", diameter - 110)
+      .attr("y", 40)
+      .text("Issue Labels")
+      .style("font-size", "16px")
+
+  legend.selectAll('g').data(root.children)
+      .enter()
+      .append('g')
+      .each(function(d, i) {
+        var g = d3.select(this);
+        g.append("rect")
+          .attr("x", diameter - 100)
+          .attr("y", 55 + i * 27)
+          .attr("width", 16)
+          .attr("height", 16)
+          .style("fill", color(d.name));
+        
+        g.append("text")
+          .attr("x", diameter - 75)
+          .attr("y", 55 + i * 27 + 12)
+          .attr("height",30)
+          .attr("width",100)
+          .style("font-size", "12px")
+          .text(d.name);
+    })
+});
+
+
+// Returns a flattened hierarchy containing all leaf nodes under the root.
+function classes(root) {
+  var classes = [];
+
+  function recurse(name, node) {
+    if (node.children) node.children.forEach(function(child) { recurse(node.name, child); });
+    else classes.push({packageName: name, className: node.name, value: node.size});
+  }
+
+  recurse(null, root);
+  return {children: classes};
+}
+
+d3.select(self.frameElement).style("height", diameter + "px");
+
+
+
+
+        </script>
+    </body>
+
+</html>

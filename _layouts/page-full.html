@@ -15,12 +15,25 @@
                 <div class="content-container">
                     <article>
                         {% if page.featimg %}
+                            {% unless page.type == "visualization" %}
                             <img class="featimg" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.featimg }}" alt="{{ page.featimg }}">
+                            {% endunless %}
                         {% endif %}
 
                         <h1 class="page-title">
                             {{ page.title }}
                         </h1>
+
+                        {% if page.vizlink %}
+                        <iframe
+                          style="border: 0px;"
+                          src="/viz/{{ page.vizlink}}"
+                          scrolling="no"
+                          width="652px"
+                          height="756px">
+                        </iframe>
+                        {% endif %}
+
                         <div class="post-content">
                             {{ content }}
                         </div>

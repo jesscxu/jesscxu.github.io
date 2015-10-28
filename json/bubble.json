@@ -1,0 +1,230 @@
+{
+    "name": "glass-bead-labs/sensor-group", 
+    "children": [
+        {
+            "name": "agenda", 
+            "children": [
+                {
+                    "name": "Data Science Fair 5/5", 
+                    "size": 1
+                }, 
+                {
+                    "name": "PostgreSQL introduction 3/31", 
+                    "size": 6
+                }, 
+                {
+                    "name": "Find date to meet /w Collin Bode (BiGCB field station sensors)", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Agenda 4/7: Tying everything together", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Agenda 3/31: Postgres and Bluetooth", 
+                    "size": 2
+                }, 
+                {
+                    "name": "Agenda Friday 3/20: Requirements", 
+                    "size": 14
+                }, 
+                {
+                    "name": "Agenda Tuesday 3/17: Dashboard", 
+                    "size": 10
+                }, 
+                {
+                    "name": "Agenda Tuesday 3/10: Arduino Xmas", 
+                    "size": 7
+                }, 
+                {
+                    "name": "Agenda for Feb 25, 2015 Meeting", 
+                    "size": 5
+                }
+            ]
+        }, 
+        {
+            "name": "how to", 
+            "children": [
+                {
+                    "name": "PostgreSQL introduction 3/31", 
+                    "size": 6
+                }, 
+                {
+                    "name": "Cleanup example code from d3 tutorial and create bl.ocks.org example", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Introduction in D3.js", 
+                    "size": 7
+                }, 
+                {
+                    "name": "Please add documentation how to install access token in external file.", 
+                    "size": 5
+                }, 
+                {
+                    "name": "Wire up BlueTooth to Arduinos", 
+                    "size": 4
+                }
+            ]
+        }, 
+        {
+            "name": "help wanted", 
+            "children": [
+                {
+                    "name": "Publish code for light sensor in a gist", 
+                    "size": 2
+                }, 
+                {
+                    "name": "ASBase Queries All Failing", 
+                    "size": 5
+                }, 
+                {
+                    "name": "Get URAP students signed up for space-hackers", 
+                    "size": 5
+                }
+            ]
+        }, 
+        {
+            "name": "issue-tracker", 
+            "children": [
+                {
+                    "name": "Doc strings are usually placed underneath the first line of a function/class declaration", 
+                    "size": 4
+                }, 
+                {
+                    "name": "Write adapter for GitHub API to ASBase", 
+                    "size": 32
+                }
+            ]
+        }, 
+        {
+            "name": "question", 
+            "children": [
+                {
+                    "name": "ASBase Queries All Failing", 
+                    "size": 5
+                }, 
+                {
+                    "name": "Do you have an empty ansible project structure we could bootstrap?", 
+                    "size": 4
+                }, 
+                {
+                    "name": "Places for sensor dumps", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Basic supplies", 
+                    "size": 8
+                }, 
+                {
+                    "name": "Ask for consulting on the university network, sensor network, experimenting side of things", 
+                    "size": 6
+                }
+            ]
+        }, 
+        {
+            "name": "ongoing", 
+            "children": [
+                {
+                    "name": "Collect list of sensor-oriented webpages/services", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Collect list of on-campus maker resources", 
+                    "size": 6
+                }, 
+                {
+                    "name": "Investigate using mobile phone as sensor or bluetooth hub for our dedicated sensors", 
+                    "size": 5
+                }, 
+                {
+                    "name": "Collect lessons / resources from existing projects", 
+                    "size": 3
+                }, 
+                {
+                    "name": "Things to learn for sensing", 
+                    "size": 3
+                }
+            ]
+        }, 
+        {
+            "name": "next step", 
+            "children": [
+                {
+                    "name": "Develop initial dashboard mock-up", 
+                    "size": 2
+                }
+            ]
+        }, 
+        {
+            "name": "infrastructure", 
+            "children": [
+                {
+                    "name": "Initial framework for coordination", 
+                    "size": 3
+                }, 
+                {
+                    "name": "Basic supplies", 
+                    "size": 8
+                }, 
+                {
+                    "name": "Get gateway server", 
+                    "size": 2
+                }, 
+                {
+                    "name": "Ask for consulting on the university network, sensor network, experimenting side of things", 
+                    "size": 6
+                }
+            ]
+        }, 
+        {
+            "name": "no label", 
+            "children": [
+                {
+                    "name": "Look into Apple iOS Developer Program", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Keep in sync with U Washington!", 
+                    "size": 2
+                }, 
+                {
+                    "name": "Web graphic for system architecture", 
+                    "size": 2
+                }, 
+                {
+                    "name": "Add Slack Integration", 
+                    "size": 4
+                }, 
+                {
+                    "name": "final test (ignore)", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Constant Running Test Issue (IGNORE)", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Test Issue", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Prepare DSE-oriented proposal to get on the same page with Neal Davies", 
+                    "size": 3
+                }, 
+                {
+                    "name": "Send draft project / milestone document to Siemens", 
+                    "size": 2
+                }, 
+                {
+                    "name": "Discuss requirements", 
+                    "size": 4
+                }, 
+                {
+                    "name": "Address privacy concerns/develop policies", 
+                    "size": 3
+                }
+            ]
+        }
+    ]
+}

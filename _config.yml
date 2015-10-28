@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: Jessica Xu
+description: A portfolio website for Jessica Xu.
 destination: jekyllbuild
 url: #place url
 baseurl: #place folder name if site is served in subfolder
@@ -19,7 +19,7 @@ tumblr: "#"
 pinterest: "#"
 instagram: "#"
 twitter: "#"
-facebook: "#"
+facebook: "https://www.facebook.com/jessica.xu.54"
 youtube: "#"
 vimeo: "#"
 soundcloud: "#"
@@ -31,7 +31,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post-material-sidebar-left"
+      layout: "page-full"
       type: "standard"
       homedisplay: "featimg"
 markdown: kramdown

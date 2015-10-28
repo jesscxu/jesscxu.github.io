@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.feature {
+  fill: #ccc;
+  cursor: pointer;
+}
+
+.feature.active {
+  fill: orange;
+}
+
+.mesh {
+  fill: none;
+  stroke: #fff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.tooltip-container {
+  position: absolute;
+  pointer-events: none;
+  padding: 2px 4px 2px 6px;
+  background-color: #C1DDF5;
+  border: solid 1px #aaa;
+  border-radius: 6px;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.tooltip-title {
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1em;
+}
+
+.tooltip-content {
+  font-size: 11px;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+width = 960,
+height = 500,
+active = d3.select(null);
+
+ projection = d3.geo.albersUsa()
+    .scale(1000)
+    .translate([width / 2, height / 2]);
+
+ path = d3.geo.path()
+    .projection(projection);
+
+ svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+
+
+
+city_data = []
+d3.json("/json/cities.json", function(error, us) {
+
+city_data = us
+
+// console.log(city_data)
+// city = svg.selectAll("ellipse")
+//         .data(us).enter()
+//         .append("ellipse")
+//         .attr("cx", function (d) {
+//             return projection(d.coordinates)[0]; 
+//             })
+//         .attr("cy", function (d) {
+//             return projection(d.coordinates)[1]; 
+//         })
+//         .attr("rx", 6)
+//        .attr("ry", 6)
+//        .attr("fill", "blue")
+reset()
+
+});
+
+
+
+svg.append("rect")
+    .attr("class", "background")
+    .attr("width", width)
+    .attr("height", height)
+    .on("click", reset);
+
+ g = svg.append("g")
+    .style("stroke-width", "1.5px");
+
+
+
+
+d3.json("/json/us-topo.json", function(error, us) {
+  if (error) throw error;
+
+  g.selectAll("path")
+      .data(topojson.feature(us, us.objects.states).features)
+    .enter().append("path")
+      .attr("d", path)
+      .attr("class", "feature")
+      .on("click", clicked);
+
+  g.append("path")
+      .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+      .attr("class", "mesh")
+      .attr("d", path);
+});
+
+
+
+data = []
+
+d3.json("/json/map.json", function(error, latlonData) {
+  if (error) throw error;
+  data = latlonData
+  reset();
+});
+
+
+
+  function tooltipChart() {
+
+        // Tooltip width and height
+        var width = 200,
+            height = 80;
+
+        // Tooltip Offset
+        var offset = {x: 20, y: 0};
+
+
+
+        // Charting function
+        function chart(selection) {
+            selection.each(function(d) {
+
+                // Bind the mouse events to the container element
+                d3.select(this)
+                    .on('mouseover.tooltip', create)
+                    .on('mousemove.tooltip', move)
+                    .on('mouseout.tooltip', remove);
+            });
+        }
+
+
+        // Initialize the tooltip
+        var init = function(selection) {
+            selection.each(function(data) {
+
+                // Create and configure the tooltip container
+                d3.select(this)
+                    .attr('class', 'tooltip-container')
+                    .style('width', width + 'px');
+
+                // Tooltip Title
+                d3.select(this).append('p')
+                    .attr('class', 'tooltip-title')
+                    .text(data.name);
+
+                // Tooltip Content
+                d3.select(this).append('p')
+                    .attr('class', 'tooltip-content')
+                    .text(data.address);
+            });
+        };
+
+        // Create the tooltip chart
+        var create = function(data) {
+
+            // Create the tooltip container div
+            var tooltipContainer = d3.select('body').append('div')
+                .datum(data)
+                .attr('class', 'tooltip-container')
+                .call(init);
+
+            // Move the tooltip to its initial position
+            tooltipContainer
+                .style('left', (d3.event.pageX + offset.x) + 'px')
+                .style('top', (d3.event.pageY + offset.y) + 'px');
+        };
+
+        // Move the tooltip to follow the pointer
+        var move = function() {
+            // Select the tooltip and move it following the pointer
+            d3.select('body').select('div.tooltip-container')
+                .style('left', (d3.event.pageX + offset.x) + 'px')
+                .style('top', (d3.event.pageY + offset.y) + 'px');
+        };
+
+        // Remove the tooltip
+        var remove = function() {
+            // Remove the tooltip div.
+            d3.select('div.tooltip-container').remove();
+        };
+
+
+        return chart;
+    }
+
+latlongcircles = null
+
+function makecircles() {
+  circle = svg.selectAll("circle")
+        .data(data).enter()
+        .append("circle")
+        .attr("cx", function (d) {
+            return projection(d.coordinates)[0]; 
+            })
+        .attr("cy", function (d) {
+            return projection(d.coordinates)[1]; 
+        })
+        .attr("r", function(d) {
+          if (d.address) {
+            return "5px"
+          } else{
+            return "3px"
+          }
+        })
+        .attr("fill", function(d) {
+          if (d.address) {
+            return "red"
+          } else{
+            return "blue"
+          }
+        })
+
+
+    circle
+        .on('mouseover', function(d) {
+            d3.select(this)
+                .attr('stroke-width', 3)
+                .attr('fill', '#C1DDF5')
+        })
+        .on('mouseout', function(d) {
+            d3.select(this)
+            .attr("fill", function(d) {
+          if (d.address) {
+            return "red"
+          } else{
+            return "blue"
+          }
+        })
+                .attr('stroke-width', 0);
+        })
+        .call(tooltipChart());
+
+}
+
+
+// function makecitycircles() {
+// ellipse = svg.selectAll("ellipse")
+//         .data(city_data).enter()
+//         .append("ellipse")
+//         .attr("cx", function (d) {
+//             return projection(d.coordinates)[0]; 
+//             })
+//         .attr("cy", function (d) {
+//             return projection(d.coordinates)[1]; 
+//         })
+//         .attr("rx", 3)
+//        .attr("ry", 3)
+//        .attr("fill", "blue")
+
+// ellipse
+//         .on('mouseover', function(d) {
+//             d3.select(this)
+//                 .attr('stroke-width', 3)
+//                 .attr('fill', '#C1DDF5')
+//                 .attr('stroke', d.color);
+//         })
+//         .on('mouseout', function(d) {
+//             d3.select(this)
+//                 .attr('fill', 'red')
+//                 .attr('stroke-width', 0);
+//         })
+//         .call(tooltipChart());
+// }
+
+makecircles()
+// makecitycircles()
+
+
+
+
+
+
+function clearlatlong() {
+  if (latlongcircles != null) {
+    for (i = 0; i < latlongcircles[0].length; i++) {
+      latlongcircles[0][i].remove()
+    }
+  }
+  latlongcircles = null
+  latlongpoints = []
+}
+
+function isbetween(x, a, b) {
+  if ((b - x > 0) && (x - a > 0)) {
+    return true
+  } else {
+    return false
+  }
+}
+
+
+function clearpoints() {
+ 
+  if (circle != null) {
+    for (i = 0; i < circle[0].length; i++) {
+      circle[0][i].remove()
+    }
+  }
+  circle = null
+}
+
+
+// function clearcity() {
+//   if (ellipse != null) {
+//     for (i = 0; i < ellipse[0].length; i++) {
+//       ellipse[0][i].remove()
+//     }
+//   }
+//   ellipse = null
+// }
+
+latlongpoints = []
+
+function makelatlongcirc(points) {
+  latlongcircles = svg.selectAll("circle")
+        .data(points).enter()
+        .append("circle")
+        .attr("cx", function (d) {
+            return (width / 2) + d.coordinates[0]
+            })
+        .attr("cy", function (d) {
+            return (height / 2) + d.coordinates[1]
+        })
+        .attr("r", function(d) {
+          if (d.address) {
+            return "4px"
+          } else{
+            return "2px"
+          }
+        })
+        .attr("fill", function(d) {
+          if (d.address) {
+            return "red"
+          } else{
+            return "blue"
+          }
+        })
+
+
+      latlongcircles
+        .on('mouseover', function(d) {
+            d3.select(this)
+                .attr('stroke-width', 3)
+                .attr('fill', '#CCFF00')
+                .attr('stroke', d.color);
+        })
+        .on('mouseout', function(d) {
+            d3.select(this)
+                .attr('fill', function(d){
+              if (d.address) {
+            return "red"
+          } else{
+            return "blue"
+          }
+                })
+                .attr('stroke-width', 0);
+        })
+        .call(tooltipChart());
+}
+
+
+function clicked(d) {
+  clearlatlong()
+  clearpoints()
+  // clearcity()
+  if (active.node() === this) return reset();
+  active.classed("active", false);
+  active = d3.select(this).classed("active", true);
+
+
+bounds = path.bounds(d),
+      dx = bounds[1][0] - bounds[0][0],
+      dy = bounds[1][1] - bounds[0][1],
+      x = (bounds[0][0] + bounds[1][0]) / 2,
+      y = (bounds[0][1] + bounds[1][1]) / 2,
+      scale = .9 / Math.max(dx / width, dy / height),
+      translate = [width / 2 - scale * x, height / 2 - scale * y];
+
+  g.transition()
+      .duration(750)
+      .style("stroke-width", 1.5 / scale + "px")
+      .attr("transform", "translate(" + translate + ")scale(" + scale + ")");
+
+
+
+  for (i = 0; i < data.length; i++) {
+
+    if (isbetween(projection(data[i].coordinates)[0], bounds[0][0], bounds[1][0]) && isbetween(projection(data[i].coordinates)[1], bounds[0][1], bounds[1][1]) ) {
+
+    latlongpoints.push(
+      {'name': data[i]['name'],
+        'address': data[i]['address'],
+        'coordinates':[ (projection(data[i].coordinates)[0] - path.centroid(d)[0]) * scale, (projection(data[i].coordinates)[1] - path.centroid(d)[1]) * scale ]
+      }
+      )
+    }
+  }
+
+
+  makelatlongcirc(latlongpoints)
+
+}
+
+
+
+
+
+
+function reset() {
+clearlatlong()
+
+makecircles()
+// makecitycircles()
+
+  active.classed("active", false);
+  active = d3.select(null);
+
+  g.transition()
+      .duration(750)
+      .style("stroke-width", "1.5px")
+      .attr("transform", "");
+
+}
+
+</script>

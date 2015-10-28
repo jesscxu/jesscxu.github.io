@@ -1,0 +1,4148 @@
+[
+    {
+        "name": "Delicious Pizza", 
+        "coordinates": [
+            -118.360861532824, 
+            34.0326026019024
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -83.0033264, 
+            39.9769783
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "800 Degrees Neapolitan Pizzeria", 
+        "coordinates": [
+            -118.2586288, 
+            34.0493393
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "39 Below FroYo", 
+        "coordinates": [
+            -82.9996470361948, 
+            39.9637401849031
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Pizza Studio", 
+        "coordinates": [
+            -118.281577, 
+            34.018666
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -83.004158, 
+            39.9721718
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Pizzanista!", 
+        "coordinates": [
+            -118.2314789, 
+            34.0347023
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Whit's Frozen Custard", 
+        "coordinates": [
+            -83.0042307, 
+            39.9795637
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Pellicola Pizzeria", 
+        "coordinates": [
+            -118.256324915344, 
+            34.044907607488
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -82.9925861209631, 
+            39.9441459774971
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Tomato Pie Pizza Joint", 
+        "coordinates": [
+            -118.273716, 
+            34.104003
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -83.0450439, 
+            39.9838295
+        ], 
+        "address": "Grandview Heights, OH"
+    }, 
+    {
+        "name": "DeSano Pizza Bakery", 
+        "coordinates": [
+            -118.2977495, 
+            34.0908456
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Orange Leaf", 
+        "coordinates": [
+            -83.0594086647034, 
+            40.0205570090684
+        ], 
+        "address": "Upper Arlington, OH"
+    }, 
+    {
+        "name": "Masa of Echo Park", 
+        "coordinates": [
+            -118.259599, 
+            34.077585
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Graeters Ice Cream", 
+        "coordinates": [
+            -83.0511016845703, 
+            40.0073509216309
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Blaze Fast-Fire'd Pizza", 
+        "coordinates": [
+            -118.28022, 
+            34.0222588
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Graeter's Ice Cream", 
+        "coordinates": [
+            -82.9379196166992, 
+            39.9574356079102
+        ], 
+        "address": "Bexley, OH"
+    }, 
+    {
+        "name": "Folliero's Italian Food and Pizza", 
+        "coordinates": [
+            -118.194031, 
+            34.108601
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -83.020607, 
+            40.0486412
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Village Pizzeria", 
+        "coordinates": [
+            -118.3238054, 
+            34.0739747
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams", 
+        "coordinates": [
+            -82.915258743158, 
+            40.0517396837314
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Town Pizza", 
+        "coordinates": [
+            -118.204588, 
+            34.121469
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Handel's Ice Cream", 
+        "coordinates": [
+            -83.151833, 
+            39.972588
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Anima Pizza & Pasta", 
+        "coordinates": [
+            -118.2912064, 
+            34.0600891
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Dairy Queen", 
+        "coordinates": [
+            -83.0468521, 
+            39.9889908
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "PizzaRev", 
+        "coordinates": [
+            -118.3354677, 
+            34.0480276
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Johnson's Real Ice Cream", 
+        "coordinates": [
+            -82.9258804, 
+            39.9570694
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Pizza Next Door", 
+        "coordinates": [
+            -118.260447463435, 
+            34.0473344953997
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Yaourt Frozen Yogurt", 
+        "coordinates": [
+            -83.0855842076569, 
+            40.0981638799674
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Apollonia's Pizzeria", 
+        "coordinates": [
+            -118.3428125, 
+            34.062139
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Jeni's Splendid Ice Creams at the Commons", 
+        "coordinates": [
+            -82.9999565, 
+            39.9587628
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Prime Pizza", 
+        "coordinates": [
+            -118.361365646124, 
+            34.0796721173234
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Tony's Coneys", 
+        "coordinates": [
+            -83.140953, 
+            39.951981
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Hollywood Pies", 
+        "coordinates": [
+            -118.374519869685, 
+            34.0529729425907
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Clown Cone & Confections", 
+        "coordinates": [
+            -82.9649811, 
+            40.0364189
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "All' Angolo Pizza & Pasta", 
+        "coordinates": [
+            -118.301872, 
+            34.068913
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Graeters Ice Cream", 
+        "coordinates": [
+            -83.0865936279297, 
+            40.0642242431641
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Xlixe Pizzeria", 
+        "coordinates": [
+            -118.238754, 
+            34.046936
+        ], 
+        "address": "Los Angeles, CA"
+    }, 
+    {
+        "name": "Rita's Italian Ice", 
+        "coordinates": [
+            -83.0749414576721, 
+            40.0573720933399
+        ], 
+        "address": "Columbus, OH"
+    }, 
+    {
+        "name": "Joelllll", 
+        "coordinates": [
+            -122.480541, 
+            37.584617
+        ], 
+        "address": "1166 Manzanita Dr Pacifica, "
+    }, 
+    {
+        "name": "Jessica", 
+        "coordinates": [
+            -83.07857, 
+            40.123066
+        ], 
+        "address": "2324 Shuford Dr Dublin, OH"
+    }, 
+    {
+        "name": "Put in Bay", 
+        "coordinates": [
+            -82.8132097, 
+            41.647962
+        ], 
+        "address": "185 Toledo Ave Put-In-Bay, OH"
+    },
+    {
+        "name": "New York", 
+        "coordinates": [
+            -74.0059413, 
+            40.7127837
+        ]
+    }, 
+    {
+        "name": "Los Angeles", 
+        "coordinates": [
+            -118.2436849, 
+            34.0522342
+        ]
+    }, 
+    {
+        "name": "Chicago", 
+        "coordinates": [
+            -87.6297982, 
+            41.8781136
+        ]
+    }, 
+    {
+        "name": "Houston", 
+        "coordinates": [
+            -95.3698028, 
+            29.7604267
+        ]
+    }, 
+    {
+        "name": "Philadelphia", 
+        "coordinates": [
+            -75.1652215, 
+            39.9525839
+        ]
+    }, 
+    {
+        "name": "Phoenix", 
+        "coordinates": [
+            -112.0740373, 
+            33.4483771
+        ]
+    }, 
+    {
+        "name": "San Antonio", 
+        "coordinates": [
+            -98.49362819999999, 
+            29.4241219
+        ]
+    }, 
+    {
+        "name": "San Diego", 
+        "coordinates": [
+            -117.1610838, 
+            32.715738
+        ]
+    }, 
+    {
+        "name": "Dallas", 
+        "coordinates": [
+            -96.79698789999999, 
+            32.7766642
+        ]
+    }, 
+    {
+        "name": "San Jose", 
+        "coordinates": [
+            -121.8863286, 
+            37.3382082
+        ]
+    }, 
+    {
+        "name": "Austin", 
+        "coordinates": [
+            -97.7430608, 
+            30.267153
+        ]
+    }, 
+    {
+        "name": "San Francisco", 
+        "coordinates": [
+            -122.4194155, 
+            37.7749295
+        ]
+    }, 
+    {
+        "name": "Columbus", 
+        "coordinates": [
+            -82.99879419999999, 
+            39.9611755
+        ]
+    }, 
+    {
+        "name": "Fort Worth", 
+        "coordinates": [
+            -97.3307658, 
+            32.7554883
+        ]
+    }, 
+    {
+        "name": "Charlotte", 
+        "coordinates": [
+            -80.8431267, 
+            35.2270869
+        ]
+    }, 
+    {
+        "name": "Detroit", 
+        "coordinates": [
+            -83.0457538, 
+            42.331427
+        ]
+    }, 
+    {
+        "name": "El Paso", 
+        "coordinates": [
+            -106.4424559, 
+            31.7775757
+        ]
+    }, 
+    {
+        "name": "Memphis", 
+        "coordinates": [
+            -90.0489801, 
+            35.1495343
+        ]
+    }, 
+    {
+        "name": "Boston", 
+        "coordinates": [
+            -71.0588801, 
+            42.3600825
+        ]
+    }, 
+    {
+        "name": "Seattle", 
+        "coordinates": [
+            -122.3320708, 
+            47.6062095
+        ]
+    }, 
+    {
+        "name": "Louisville", 
+        "coordinates": [
+            -85.83771469999999, 
+            38.1458873
+        ]
+    }, 
+    {
+        "name": "Milwaukee", 
+        "coordinates": [
+            -87.9064736, 
+            43.0389025
+        ]
+    }, 
+    {
+        "name": "Portland", 
+        "coordinates": [
+            -122.6764816, 
+            45.5230622
+        ]
+    }, 
+    {
+        "name": "Oklahoma City", 
+        "coordinates": [
+            -97.5164276, 
+            35.4675602
+        ]
+    }, 
+    {
+        "name": "Las Vegas", 
+        "coordinates": [
+            -115.1398296, 
+            36.1699412
+        ]
+    }, 
+    {
+        "name": "Albuquerque", 
+        "coordinates": [
+            -106.6055534, 
+            35.0853336
+        ]
+    }, 
+    {
+        "name": "Tucson", 
+        "coordinates": [
+            -110.926479, 
+            32.2217429
+        ]
+    }, 
+    {
+        "name": "Fresno", 
+        "coordinates": [
+            -119.7725868, 
+            36.7468422
+        ]
+    }, 
+    {
+        "name": "Sacramento", 
+        "coordinates": [
+            -121.4943996, 
+            38.5815719
+        ]
+    }, 
+    {
+        "name": "Long Beach", 
+        "coordinates": [
+            -118.1937395, 
+            33.7700504
+        ]
+    }, 
+    {
+        "name": "Kansas City", 
+        "coordinates": [
+            -94.5785667, 
+            39.0997265
+        ]
+    }, 
+    {
+        "name": "Mesa", 
+        "coordinates": [
+            -111.8314724, 
+            33.4151843
+        ]
+    }, 
+    {
+        "name": "Virginia Beach", 
+        "coordinates": [
+            -75.97798499999999, 
+            36.8529263
+        ]
+    }, 
+    {
+        "name": "Atlanta", 
+        "coordinates": [
+            -84.3879824, 
+            33.7489954
+        ]
+    }, 
+    {
+        "name": "Colorado Springs", 
+        "coordinates": [
+            -104.8213634, 
+            38.8338816
+        ]
+    }, 
+    {
+        "name": "Raleigh", 
+        "coordinates": [
+            -78.6381787, 
+            35.7795897
+        ]
+    }, 
+    {
+        "name": "Omaha", 
+        "coordinates": [
+            -95.99798829999999, 
+            41.2523634
+        ]
+    }, 
+    {
+        "name": "Miami", 
+        "coordinates": [
+            -80.1917902, 
+            25.7616798
+        ]
+    }, 
+    {
+        "name": "Tulsa", 
+        "coordinates": [
+            -95.99277500000001, 
+            36.1539816
+        ]
+    }, 
+    {
+        "name": "Cleveland", 
+        "coordinates": [
+            -81.6943605, 
+            41.49932
+        ]
+    }, 
+    {
+        "name": "Minneapolis", 
+        "coordinates": [
+            -93.2650108, 
+            44.977753
+        ]
+    }, 
+    {
+        "name": "Wichita", 
+        "coordinates": [
+            -97.336111, 
+            37.688889
+        ]
+    }, 
+    {
+        "name": "Arlington", 
+        "coordinates": [
+            -97.10806559999999, 
+            32.735687
+        ]
+    }, 
+    {
+        "name": "New Orleans", 
+        "coordinates": [
+            -90.0715323, 
+            29.95106579999999
+        ]
+    }, 
+    {
+        "name": "Bakersfield", 
+        "coordinates": [
+            -119.0187125, 
+            35.3732921
+        ]
+    }, 
+    {
+        "name": "Tampa", 
+        "coordinates": [
+            -82.4571776, 
+            27.950575
+        ]
+    }, 
+    {
+        "name": "Anaheim", 
+        "coordinates": [
+            -117.9145036, 
+            33.8352932
+        ]
+    }, 
+    {
+        "name": "Urban Honolulu", 
+        "coordinates": [
+            -157.8626016, 
+            21.3008204
+        ]
+    }, 
+    {
+        "name": "Aurora", 
+        "coordinates": [
+            -104.8319195, 
+            39.7294319
+        ]
+    }, 
+    {
+        "name": "Corpus Christi", 
+        "coordinates": [
+            -97.39638099999999, 
+            27.8005828
+        ]
+    }, 
+    {
+        "name": "Pittsburgh", 
+        "coordinates": [
+            -79.9958864, 
+            40.44062479999999
+        ]
+    }, 
+    {
+        "name": "Lexington-Fayette", 
+        "coordinates": [
+            -84.4955823, 
+            38.0447074
+        ]
+    }, 
+    {
+        "name": "Stockton", 
+        "coordinates": [
+            -121.2907796, 
+            37.9577016
+        ]
+    }, 
+    {
+        "name": "Cincinnati", 
+        "coordinates": [
+            -84.5120196, 
+            39.1031182
+        ]
+    }, 
+    {
+        "name": "Anchorage", 
+        "coordinates": [
+            -149.9002778, 
+            61.2180556
+        ]
+    }, 
+    {
+        "name": "St. Paul", 
+        "coordinates": [
+            -93.0899578, 
+            44.9537029
+        ]
+    }, 
+    {
+        "name": "Toledo", 
+        "coordinates": [
+            -83.55521200000001, 
+            41.6639383
+        ]
+    }, 
+    {
+        "name": "Newark", 
+        "coordinates": [
+            -74.1723667, 
+            40.735657
+        ]
+    }, 
+    {
+        "name": "Greensboro", 
+        "coordinates": [
+            -79.7919754, 
+            36.0726354
+        ]
+    }, 
+    {
+        "name": "Henderson", 
+        "coordinates": [
+            -114.9817213, 
+            36.0395247
+        ]
+    }, 
+    {
+        "name": "Fort Wayne", 
+        "coordinates": [
+            -85.1393513, 
+            41.079273
+        ]
+    }, 
+    {
+        "name": "Jersey City", 
+        "coordinates": [
+            -74.0776417, 
+            40.72815749999999
+        ]
+    }, 
+    {
+        "name": "Chula Vista", 
+        "coordinates": [
+            -117.0841955, 
+            32.6400541
+        ]
+    }, 
+    {
+        "name": "St. Petersburg", 
+        "coordinates": [
+            -82.64, 
+            27.773056
+        ]
+    }, 
+    {
+        "name": "Orlando", 
+        "coordinates": [
+            -81.3792365, 
+            28.5383355
+        ]
+    }, 
+    {
+        "name": "Norfolk", 
+        "coordinates": [
+            -76.28587259999999, 
+            36.8507689
+        ]
+    }, 
+    {
+        "name": "Laredo", 
+        "coordinates": [
+            -99.48032409999999, 
+            27.5305671
+        ]
+    }, 
+    {
+        "name": "Chandler", 
+        "coordinates": [
+            -111.8412502, 
+            33.3061605
+        ]
+    }, 
+    {
+        "name": "Madison", 
+        "coordinates": [
+            -89.4012302, 
+            43.0730517
+        ]
+    }, 
+    {
+        "name": "Winston-Salem", 
+        "coordinates": [
+            -80.244216, 
+            36.09985959999999
+        ]
+    }, 
+    {
+        "name": "Garland", 
+        "coordinates": [
+            -96.63888329999999, 
+            32.912624
+        ]
+    }, 
+    {
+        "name": "Glendale", 
+        "coordinates": [
+            -112.1859866, 
+            33.5386523
+        ]
+    }, 
+    {
+        "name": "Baton Rouge", 
+        "coordinates": [
+            -91.1403196, 
+            30.4582829
+        ]
+    }, 
+    {
+        "name": "Hialeah", 
+        "coordinates": [
+            -80.2781057, 
+            25.8575963
+        ]
+    }, 
+    {
+        "name": "Reno", 
+        "coordinates": [
+            -119.8138027, 
+            39.5296329
+        ]
+    }, 
+    {
+        "name": "Chesapeake", 
+        "coordinates": [
+            -76.2874927, 
+            36.7682088
+        ]
+    }, 
+    {
+        "name": "Scottsdale", 
+        "coordinates": [
+            -111.9260519, 
+            33.4941704
+        ]
+    }, 
+    {
+        "name": "Irving", 
+        "coordinates": [
+            -96.9488945, 
+            32.8140177
+        ]
+    }, 
+    {
+        "name": "North Las Vegas", 
+        "coordinates": [
+            -115.1175013, 
+            36.1988592
+        ]
+    }, 
+    {
+        "name": "Gilbert", 
+        "coordinates": [
+            -111.789027, 
+            33.3528264
+        ]
+    }, 
+    {
+        "name": "Rochester", 
+        "coordinates": [
+            -77.6109219, 
+            43.16103
+        ]
+    }, 
+    {
+        "name": "Boise City", 
+        "coordinates": [
+            -116.2146068, 
+            43.6187102
+        ]
+    }, 
+    {
+        "name": "Spokane", 
+        "coordinates": [
+            -117.4260466, 
+            47.6587802
+        ]
+    }, 
+    {
+        "name": "Montgomery", 
+        "coordinates": [
+            -86.2999689, 
+            32.3668052
+        ]
+    }, 
+    {
+        "name": "Des Moines", 
+        "coordinates": [
+            -93.6091064, 
+            41.6005448
+        ]
+    }, 
+    {
+        "name": "Richmond", 
+        "coordinates": [
+            -77.4360481, 
+            37.5407246
+        ]
+    }, 
+    {
+        "name": "Fayetteville", 
+        "coordinates": [
+            -78.87835849999999, 
+            35.0526641
+        ]
+    }, 
+    {
+        "name": "Modesto", 
+        "coordinates": [
+            -120.9968782, 
+            37.63909719999999
+        ]
+    }, 
+    {
+        "name": "Shreveport", 
+        "coordinates": [
+            -93.7501789, 
+            32.5251516
+        ]
+    }, 
+    {
+        "name": "Moreno Valley", 
+        "coordinates": [
+            -117.2296717, 
+            33.9424658
+        ]
+    }, 
+    {
+        "name": "Yonkers", 
+        "coordinates": [
+            -73.89874689999999, 
+            40.9312099
+        ]
+    }, 
+    {
+        "name": "Augusta-Richmond County consolidated government", 
+        "coordinates": [
+            -81.96164739999999, 
+            33.4711924
+        ]
+    }, 
+    {
+        "name": "Little Rock", 
+        "coordinates": [
+            -92.28959479999999, 
+            34.7464809
+        ]
+    }, 
+    {
+        "name": "Mobile", 
+        "coordinates": [
+            -88.0398912, 
+            30.6953657
+        ]
+    }, 
+    {
+        "name": "Columbus", 
+        "coordinates": [
+            -84.9877094, 
+            32.4609764
+        ]
+    }, 
+    {
+        "name": "Amarillo", 
+        "coordinates": [
+            -101.8312969, 
+            35.2219971
+        ]
+    }, 
+    {
+        "name": "Glendale", 
+        "coordinates": [
+            -118.255075, 
+            34.1425078
+        ]
+    }, 
+    {
+        "name": "Huntington Beach", 
+        "coordinates": [
+            -117.9992265, 
+            33.660297
+        ]
+    }, 
+    {
+        "name": "Salt Lake City", 
+        "coordinates": [
+            -111.8910474, 
+            40.7607793
+        ]
+    }, 
+    {
+        "name": "Worcester", 
+        "coordinates": [
+            -71.8022934, 
+            42.2625932
+        ]
+    }, 
+    {
+        "name": "Knoxville", 
+        "coordinates": [
+            -83.9207392, 
+            35.9606384
+        ]
+    }, 
+    {
+        "name": "Newport News", 
+        "coordinates": [
+            -76.4730122, 
+            37.0870821
+        ]
+    }, 
+    {
+        "name": "Grand Prairie", 
+        "coordinates": [
+            -96.99778459999999, 
+            32.7459645
+        ]
+    }, 
+    {
+        "name": "Brownsville", 
+        "coordinates": [
+            -97.4974838, 
+            25.9017472
+        ]
+    }, 
+    {
+        "name": "Providence", 
+        "coordinates": [
+            -71.4128343, 
+            41.8239891
+        ]
+    }, 
+    {
+        "name": "Santa Clarita", 
+        "coordinates": [
+            -118.542586, 
+            34.3916641
+        ]
+    }, 
+    {
+        "name": "Overland Park", 
+        "coordinates": [
+            -94.6707917, 
+            38.9822282
+        ]
+    }, 
+    {
+        "name": "Jackson", 
+        "coordinates": [
+            -90.1848103, 
+            32.2987573
+        ]
+    }, 
+    {
+        "name": "Garden Grove", 
+        "coordinates": [
+            -117.9414477, 
+            33.7739053
+        ]
+    }, 
+    {
+        "name": "Rancho Cucamonga", 
+        "coordinates": [
+            -117.5931084, 
+            34.10639889999999
+        ]
+    }, 
+    {
+        "name": "Ontario", 
+        "coordinates": [
+            -117.6508876, 
+            34.0633443
+        ]
+    }, 
+    {
+        "name": "Port St. Lucie", 
+        "coordinates": [
+            -80.3582261, 
+            27.2730492
+        ]
+    }, 
+    {
+        "name": "Vancouver", 
+        "coordinates": [
+            -122.6614861, 
+            45.6387281
+        ]
+    }, 
+    {
+        "name": "Tempe", 
+        "coordinates": [
+            -111.9400054, 
+            33.4255104
+        ]
+    }, 
+    {
+        "name": "Springfield", 
+        "coordinates": [
+            -93.29229889999999, 
+            37.2089572
+        ]
+    }, 
+    {
+        "name": "Lancaster", 
+        "coordinates": [
+            -118.1541632, 
+            34.6867846
+        ]
+    }, 
+    {
+        "name": "Pembroke Pines", 
+        "coordinates": [
+            -80.2962555, 
+            26.007765
+        ]
+    }, 
+    {
+        "name": "Cape Coral", 
+        "coordinates": [
+            -81.9495331, 
+            26.5628537
+        ]
+    }, 
+    {
+        "name": "Eugene", 
+        "coordinates": [
+            -123.0867536, 
+            44.0520691
+        ]
+    }, 
+    {
+        "name": "Elk Grove", 
+        "coordinates": [
+            -121.3716178, 
+            38.4087993
+        ]
+    }, 
+    {
+        "name": "Palmdale", 
+        "coordinates": [
+            -118.1164613, 
+            34.5794343
+        ]
+    }, 
+    {
+        "name": "Springfield", 
+        "coordinates": [
+            -72.589811, 
+            42.1014831
+        ]
+    }, 
+    {
+        "name": "Salinas", 
+        "coordinates": [
+            -121.6555013, 
+            36.6777372
+        ]
+    }, 
+    {
+        "name": "Pasadena", 
+        "coordinates": [
+            -95.2091006, 
+            29.6910625
+        ]
+    }, 
+    {
+        "name": "Rockford", 
+        "coordinates": [
+            -89.0939952, 
+            42.2711311
+        ]
+    }, 
+    {
+        "name": "Pomona", 
+        "coordinates": [
+            -117.7499909, 
+            34.055103
+        ]
+    }, 
+    {
+        "name": "Joliet", 
+        "coordinates": [
+            -88.0817251, 
+            41.525031
+        ]
+    }, 
+    {
+        "name": "Fort Collins", 
+        "coordinates": [
+            -105.084423, 
+            40.5852602
+        ]
+    }, 
+    {
+        "name": "Torrance", 
+        "coordinates": [
+            -118.3406288, 
+            33.8358492
+        ]
+    }, 
+    {
+        "name": "Bridgeport", 
+        "coordinates": [
+            -73.19517669999999, 
+            41.1865478
+        ]
+    }, 
+    {
+        "name": "Syracuse", 
+        "coordinates": [
+            -76.14742439999999, 
+            43.0481221
+        ]
+    }, 
+    {
+        "name": "Lakewood", 
+        "coordinates": [
+            -105.0813734, 
+            39.7047095
+        ]
+    }, 
+    {
+        "name": "Alexandria", 
+        "coordinates": [
+            -77.0469214, 
+            38.8048355
+        ]
+    }, 
+    {
+        "name": "Hollywood", 
+        "coordinates": [
+            -80.1494901, 
+            26.0112014
+        ]
+    }, 
+    {
+        "name": "Naperville", 
+        "coordinates": [
+            -88.1535352, 
+            41.7508391
+        ]
+    }, 
+    {
+        "name": "Mesquite", 
+        "coordinates": [
+            -96.5991593, 
+            32.76679550000001
+        ]
+    }, 
+    {
+        "name": "Sunnyvale", 
+        "coordinates": [
+            -122.0363496, 
+            37.36883
+        ]
+    }, 
+    {
+        "name": "Dayton", 
+        "coordinates": [
+            -84.1916069, 
+            39.7589478
+        ]
+    }, 
+    {
+        "name": "Cary", 
+        "coordinates": [
+            -78.7811169, 
+            35.79154
+        ]
+    }, 
+    {
+        "name": "Fullerton", 
+        "coordinates": [
+            -117.9242966, 
+            33.8703596
+        ]
+    }, 
+    {
+        "name": "Hampton", 
+        "coordinates": [
+            -76.34522179999999, 
+            37.0298687
+        ]
+    }, 
+    {
+        "name": "Clarksville", 
+        "coordinates": [
+            -87.3594528, 
+            36.5297706
+        ]
+    }, 
+    {
+        "name": "McKinney", 
+        "coordinates": [
+            -96.6397822, 
+            33.1972465
+        ]
+    }, 
+    {
+        "name": "Warren", 
+        "coordinates": [
+            -83.01465259999999, 
+            42.5144566
+        ]
+    }, 
+    {
+        "name": "McAllen", 
+        "coordinates": [
+            -98.23001239999999, 
+            26.2034071
+        ]
+    }, 
+    {
+        "name": "West Valley City", 
+        "coordinates": [
+            -112.0010501, 
+            40.6916132
+        ]
+    }, 
+    {
+        "name": "Columbia", 
+        "coordinates": [
+            -81.0348144, 
+            34.0007104
+        ]
+    }, 
+    {
+        "name": "Killeen", 
+        "coordinates": [
+            -97.72779589999999, 
+            31.1171194
+        ]
+    }, 
+    {
+        "name": "Sterling Heights", 
+        "coordinates": [
+            -83.0302033, 
+            42.5803122
+        ]
+    }, 
+    {
+        "name": "Olathe", 
+        "coordinates": [
+            -94.81912849999999, 
+            38.8813958
+        ]
+    }, 
+    {
+        "name": "Cedar Rapids", 
+        "coordinates": [
+            -91.6656232, 
+            41.9778795
+        ]
+    }, 
+    {
+        "name": "Waco", 
+        "coordinates": [
+            -97.1466695, 
+            31.549333
+        ]
+    }, 
+    {
+        "name": "Visalia", 
+        "coordinates": [
+            -119.2920585, 
+            36.3302284
+        ]
+    }, 
+    {
+        "name": "Elizabeth", 
+        "coordinates": [
+            -74.2107006, 
+            40.6639916
+        ]
+    }, 
+    {
+        "name": "Simi Valley", 
+        "coordinates": [
+            -118.781482, 
+            34.2694474
+        ]
+    }, 
+    {
+        "name": "Gainesville", 
+        "coordinates": [
+            -82.32482619999999, 
+            29.6516344
+        ]
+    }, 
+    {
+        "name": "Hartford", 
+        "coordinates": [
+            -72.6850932, 
+            41.76371109999999
+        ]
+    }, 
+    {
+        "name": "Bellevue", 
+        "coordinates": [
+            -122.2006786, 
+            47.610377
+        ]
+    }, 
+    {
+        "name": "Miramar", 
+        "coordinates": [
+            -80.30356019999999, 
+            25.9860762
+        ]
+    }, 
+    {
+        "name": "Carrollton", 
+        "coordinates": [
+            -96.8899636, 
+            32.9756415
+        ]
+    }, 
+    {
+        "name": "Lafayette", 
+        "coordinates": [
+            -92.0198427, 
+            30.2240897
+        ]
+    }, 
+    {
+        "name": "Roseville", 
+        "coordinates": [
+            -121.2880059, 
+            38.7521235
+        ]
+    }, 
+    {
+        "name": "Thornton", 
+        "coordinates": [
+            -104.9719243, 
+            39.8680412
+        ]
+    }, 
+    {
+        "name": "Frisco", 
+        "coordinates": [
+            -96.82361159999999, 
+            33.1506744
+        ]
+    }, 
+    {
+        "name": "Kent", 
+        "coordinates": [
+            -122.2348431, 
+            47.3809335
+        ]
+    }, 
+    {
+        "name": "Surprise", 
+        "coordinates": [
+            -112.3679279, 
+            33.6292337
+        ]
+    }, 
+    {
+        "name": "Allentown", 
+        "coordinates": [
+            -75.4901833, 
+            40.6084305
+        ]
+    }, 
+    {
+        "name": "Beaumont", 
+        "coordinates": [
+            -94.1265562, 
+            30.080174
+        ]
+    }, 
+    {
+        "name": "Santa Clara", 
+        "coordinates": [
+            -121.9552356, 
+            37.3541079
+        ]
+    }, 
+    {
+        "name": "Independence", 
+        "coordinates": [
+            -94.41550679999999, 
+            39.0911161
+        ]
+    }, 
+    {
+        "name": "Denton", 
+        "coordinates": [
+            -97.13306829999999, 
+            33.2148412
+        ]
+    }, 
+    {
+        "name": "Springfield", 
+        "coordinates": [
+            -89.6501481, 
+            39.78172130000001
+        ]
+    }, 
+    {
+        "name": "Vallejo", 
+        "coordinates": [
+            -122.2566367, 
+            38.1040864
+        ]
+    }, 
+    {
+        "name": "Athens-Clarke County unified government", 
+        "coordinates": [
+            -82.9000751, 
+            32.1656221
+        ]
+    }, 
+    {
+        "name": "Provo", 
+        "coordinates": [
+            -111.6585337, 
+            40.2338438
+        ]
+    }, 
+    {
+        "name": "Peoria", 
+        "coordinates": [
+            -89.5889864, 
+            40.6936488
+        ]
+    }, 
+    {
+        "name": "Ann Arbor", 
+        "coordinates": [
+            -83.7430378, 
+            42.2808256
+        ]
+    }, 
+    {
+        "name": "Lansing", 
+        "coordinates": [
+            -84.5555347, 
+            42.732535
+        ]
+    }, 
+    {
+        "name": "El Monte", 
+        "coordinates": [
+            -118.0275667, 
+            34.0686206
+        ]
+    }, 
+    {
+        "name": "Berkeley", 
+        "coordinates": [
+            -122.272747, 
+            37.8715926
+        ]
+    }, 
+    {
+        "name": "Norman", 
+        "coordinates": [
+            -97.4394777, 
+            35.2225668
+        ]
+    }, 
+    {
+        "name": "Downey", 
+        "coordinates": [
+            -118.1331593, 
+            33.9401088
+        ]
+    }, 
+    {
+        "name": "Costa Mesa", 
+        "coordinates": [
+            -117.9186689, 
+            33.6411316
+        ]
+    }, 
+    {
+        "name": "Murfreesboro", 
+        "coordinates": [
+            -86.39027, 
+            35.8456213
+        ]
+    }, 
+    {
+        "name": "Inglewood", 
+        "coordinates": [
+            -118.3531311, 
+            33.9616801
+        ]
+    }, 
+    {
+        "name": "Columbia", 
+        "coordinates": [
+            -92.3340724, 
+            38.9517053
+        ]
+    }, 
+    {
+        "name": "Waterbury", 
+        "coordinates": [
+            -73.0514965, 
+            41.5581525
+        ]
+    }, 
+    {
+        "name": "Manchester", 
+        "coordinates": [
+            -71.4547891, 
+            42.9956397
+        ]
+    }, 
+    {
+        "name": "Miami Gardens", 
+        "coordinates": [
+            -80.2456045, 
+            25.9420377
+        ]
+    }, 
+    {
+        "name": "Elgin", 
+        "coordinates": [
+            -88.2825668, 
+            42.0354084
+        ]
+    }, 
+    {
+        "name": "Wilmington", 
+        "coordinates": [
+            -77.9447102, 
+            34.2257255
+        ]
+    }, 
+    {
+        "name": "Westminster", 
+        "coordinates": [
+            -105.0372046, 
+            39.8366528
+        ]
+    }, 
+    {
+        "name": "Rochester", 
+        "coordinates": [
+            -92.4801989, 
+            44.0121221
+        ]
+    }, 
+    {
+        "name": "Clearwater", 
+        "coordinates": [
+            -82.8001026, 
+            27.9658533
+        ]
+    }, 
+    {
+        "name": "Lowell", 
+        "coordinates": [
+            -71.31617179999999, 
+            42.6334247
+        ]
+    }, 
+    {
+        "name": "Pueblo", 
+        "coordinates": [
+            -104.6091409, 
+            38.2544472
+        ]
+    }, 
+    {
+        "name": "Fargo", 
+        "coordinates": [
+            -96.7898034, 
+            46.8771863
+        ]
+    }, 
+    {
+        "name": "Carlsbad", 
+        "coordinates": [
+            -117.3505939, 
+            33.1580933
+        ]
+    }, 
+    {
+        "name": "West Covina", 
+        "coordinates": [
+            -117.9389526, 
+            34.0686208
+        ]
+    }, 
+    {
+        "name": "Norwalk", 
+        "coordinates": [
+            -118.081733, 
+            33.9022367
+        ]
+    }, 
+    {
+        "name": "Fairfield", 
+        "coordinates": [
+            -122.0399663, 
+            38.24935809999999
+        ]
+    }, 
+    {
+        "name": "Cambridge", 
+        "coordinates": [
+            -71.10973349999999, 
+            42.3736158
+        ]
+    }, 
+    {
+        "name": "Murrieta", 
+        "coordinates": [
+            -117.2139232, 
+            33.5539143
+        ]
+    }, 
+    {
+        "name": "Green Bay", 
+        "coordinates": [
+            -88.019826, 
+            44.51915899999999
+        ]
+    }, 
+    {
+        "name": "High Point", 
+        "coordinates": [
+            -80.0053176, 
+            35.9556923
+        ]
+    }, 
+    {
+        "name": "West Jordan", 
+        "coordinates": [
+            -111.9391031, 
+            40.6096698
+        ]
+    }, 
+    {
+        "name": "Round Rock", 
+        "coordinates": [
+            -97.678896, 
+            30.5082551
+        ]
+    }, 
+    {
+        "name": "Everett", 
+        "coordinates": [
+            -122.2020794, 
+            47.9789848
+        ]
+    }, 
+    {
+        "name": "Burbank", 
+        "coordinates": [
+            -118.3089661, 
+            34.1808392
+        ]
+    }, 
+    {
+        "name": "Antioch", 
+        "coordinates": [
+            -121.805789, 
+            38.0049214
+        ]
+    }, 
+    {
+        "name": "Wichita Falls", 
+        "coordinates": [
+            -98.4933873, 
+            33.9137085
+        ]
+    }, 
+    {
+        "name": "Palm Bay", 
+        "coordinates": [
+            -80.5886646, 
+            28.0344621
+        ]
+    }, 
+    {
+        "name": "Centennial", 
+        "coordinates": [
+            -104.8771726, 
+            39.5807452
+        ]
+    }, 
+    {
+        "name": "Temecula", 
+        "coordinates": [
+            -117.1483648, 
+            33.4936391
+        ]
+    }, 
+    {
+        "name": "Daly City", 
+        "coordinates": [
+            -122.4702079, 
+            37.6879241
+        ]
+    }, 
+    {
+        "name": "Odessa", 
+        "coordinates": [
+            -102.3676431, 
+            31.8456816
+        ]
+    }, 
+    {
+        "name": "Pompano Beach", 
+        "coordinates": [
+            -80.1247667, 
+            26.2378597
+        ]
+    }, 
+    {
+        "name": "Flint", 
+        "coordinates": [
+            -83.6874562, 
+            43.0125274
+        ]
+    }, 
+    {
+        "name": "South Bend", 
+        "coordinates": [
+            -86.25198979999999, 
+            41.6763545
+        ]
+    }, 
+    {
+        "name": "West Palm Beach", 
+        "coordinates": [
+            -80.0533746, 
+            26.7153424
+        ]
+    }, 
+    {
+        "name": "El Cajon", 
+        "coordinates": [
+            -116.9625269, 
+            32.7947731
+        ]
+    }, 
+    {
+        "name": "Davenport", 
+        "coordinates": [
+            -90.5776367, 
+            41.5236437
+        ]
+    }, 
+    {
+        "name": "Rialto", 
+        "coordinates": [
+            -117.3703235, 
+            34.1064001
+        ]
+    }, 
+    {
+        "name": "Santa Maria", 
+        "coordinates": [
+            -120.4357191, 
+            34.9530337
+        ]
+    }, 
+    {
+        "name": "Broken Arrow", 
+        "coordinates": [
+            -95.7974526, 
+            36.060949
+        ]
+    }, 
+    {
+        "name": "Kenosha", 
+        "coordinates": [
+            -87.82118539999999, 
+            42.5847425
+        ]
+    }, 
+    {
+        "name": "Lewisville", 
+        "coordinates": [
+            -96.994174, 
+            33.046233
+        ]
+    }, 
+    {
+        "name": "Lakeland", 
+        "coordinates": [
+            -81.9498042, 
+            28.0394654
+        ]
+    }, 
+    {
+        "name": "Tyler", 
+        "coordinates": [
+            -95.30106239999999, 
+            32.3512601
+        ]
+    }, 
+    {
+        "name": "San Mateo", 
+        "coordinates": [
+            -122.3255254, 
+            37.5629917
+        ]
+    }, 
+    {
+        "name": "Lawton", 
+        "coordinates": [
+            -98.39592909999999, 
+            34.6035669
+        ]
+    }, 
+    {
+        "name": "Albany", 
+        "coordinates": [
+            -73.7562317, 
+            42.6525793
+        ]
+    }, 
+    {
+        "name": "Compton", 
+        "coordinates": [
+            -118.2200712, 
+            33.8958492
+        ]
+    }, 
+    {
+        "name": "Dearborn", 
+        "coordinates": [
+            -83.17631449999999, 
+            42.3222599
+        ]
+    }, 
+    {
+        "name": "Clovis", 
+        "coordinates": [
+            -119.7029194, 
+            36.8252277
+        ]
+    }, 
+    {
+        "name": "Sandy Springs", 
+        "coordinates": [
+            -84.3733147, 
+            33.9304352
+        ]
+    }, 
+    {
+        "name": "Vista", 
+        "coordinates": [
+            -117.2425355, 
+            33.2000368
+        ]
+    }, 
+    {
+        "name": "New Bedford", 
+        "coordinates": [
+            -70.93420499999999, 
+            41.6362152
+        ]
+    }, 
+    {
+        "name": "College Station", 
+        "coordinates": [
+            -96.3344068, 
+            30.627977
+        ]
+    }, 
+    {
+        "name": "South Gate", 
+        "coordinates": [
+            -118.2120161, 
+            33.954737
+        ]
+    }, 
+    {
+        "name": "Greeley", 
+        "coordinates": [
+            -104.7091322, 
+            40.4233142
+        ]
+    }, 
+    {
+        "name": "Mission Viejo", 
+        "coordinates": [
+            -117.6719953, 
+            33.6000232
+        ]
+    }, 
+    {
+        "name": "San Angelo", 
+        "coordinates": [
+            -100.4370375, 
+            31.4637723
+        ]
+    }, 
+    {
+        "name": "Yuma", 
+        "coordinates": [
+            -114.6276916, 
+            32.6926512
+        ]
+    }, 
+    {
+        "name": "Brockton", 
+        "coordinates": [
+            -71.0183787, 
+            42.0834335
+        ]
+    }, 
+    {
+        "name": "Davie", 
+        "coordinates": [
+            -80.25211569999999, 
+            26.0764783
+        ]
+    }, 
+    {
+        "name": "Quincy", 
+        "coordinates": [
+            -71.0022705, 
+            42.2528772
+        ]
+    }, 
+    {
+        "name": "Renton", 
+        "coordinates": [
+            -122.2170661, 
+            47.48287759999999
+        ]
+    }, 
+    {
+        "name": "Yakima", 
+        "coordinates": [
+            -120.5058987, 
+            46.6020711
+        ]
+    }, 
+    {
+        "name": "Carson", 
+        "coordinates": [
+            -118.281693, 
+            33.8316745
+        ]
+    }, 
+    {
+        "name": "Macon", 
+        "coordinates": [
+            -83.6324022, 
+            32.8406946
+        ]
+    }, 
+    {
+        "name": "Lee's Summit", 
+        "coordinates": [
+            -94.3821724, 
+            38.9108408
+        ]
+    }, 
+    {
+        "name": "Beaverton", 
+        "coordinates": [
+            -122.8037102, 
+            45.48706199999999
+        ]
+    }, 
+    {
+        "name": "Tuscaloosa", 
+        "coordinates": [
+            -87.56917349999999, 
+            33.2098407
+        ]
+    }, 
+    {
+        "name": "Hesperia", 
+        "coordinates": [
+            -117.3008784, 
+            34.4263886
+        ]
+    }, 
+    {
+        "name": "Sparks", 
+        "coordinates": [
+            -119.7526886, 
+            39.5349112
+        ]
+    }, 
+    {
+        "name": "Lynn", 
+        "coordinates": [
+            -70.9494938, 
+            42.46676300000001
+        ]
+    }, 
+    {
+        "name": "Orem", 
+        "coordinates": [
+            -111.6946475, 
+            40.2968979
+        ]
+    }, 
+    {
+        "name": "Santa Monica", 
+        "coordinates": [
+            -118.4911912, 
+            34.0194543
+        ]
+    }, 
+    {
+        "name": "Spokane Valley", 
+        "coordinates": [
+            -117.2393748, 
+            47.6732281
+        ]
+    }, 
+    {
+        "name": "Redding", 
+        "coordinates": [
+            -122.3916754, 
+            40.5865396
+        ]
+    }, 
+    {
+        "name": "Miami Beach", 
+        "coordinates": [
+            -80.1300455, 
+            25.790654
+        ]
+    }, 
+    {
+        "name": "Waukegan", 
+        "coordinates": [
+            -87.84479379999999, 
+            42.3636331
+        ]
+    }, 
+    {
+        "name": "Rio Rancho", 
+        "coordinates": [
+            -106.6630437, 
+            35.2327544
+        ]
+    }, 
+    {
+        "name": "Sandy", 
+        "coordinates": [
+            -111.8389726, 
+            40.5649781
+        ]
+    }, 
+    {
+        "name": "Santa Barbara", 
+        "coordinates": [
+            -119.6981901, 
+            34.4208305
+        ]
+    }, 
+    {
+        "name": "Allen", 
+        "coordinates": [
+            -96.67055030000002, 
+            33.1031744
+        ]
+    }, 
+    {
+        "name": "Fort Smith", 
+        "coordinates": [
+            -94.39854749999999, 
+            35.3859242
+        ]
+    }, 
+    {
+        "name": "Nashua", 
+        "coordinates": [
+            -71.46756599999999, 
+            42.7653662
+        ]
+    }, 
+    {
+        "name": "Plantation", 
+        "coordinates": [
+            -80.23310359999999, 
+            26.1275862
+        ]
+    }, 
+    {
+        "name": "Newport Beach", 
+        "coordinates": [
+            -117.9289469, 
+            33.6189101
+        ]
+    }, 
+    {
+        "name": "Norwalk", 
+        "coordinates": [
+            -73.4081575, 
+            41.11774399999999
+        ]
+    }, 
+    {
+        "name": "Chico", 
+        "coordinates": [
+            -121.8374777, 
+            39.7284944
+        ]
+    }, 
+    {
+        "name": "Duluth", 
+        "coordinates": [
+            -92.1004852, 
+            46.78667189999999
+        ]
+    }, 
+    {
+        "name": "San Leandro", 
+        "coordinates": [
+            -122.1560768, 
+            37.7249296
+        ]
+    }, 
+    {
+        "name": "Greenville", 
+        "coordinates": [
+            -77.3663538, 
+            35.612661
+        ]
+    }, 
+    {
+        "name": "Deltona", 
+        "coordinates": [
+            -81.26367379999999, 
+            28.9005446
+        ]
+    }, 
+    {
+        "name": "San Marcos", 
+        "coordinates": [
+            -117.1661449, 
+            33.1433723
+        ]
+    }, 
+    {
+        "name": "Suffolk", 
+        "coordinates": [
+            -76.5835621, 
+            36.7282054
+        ]
+    }, 
+    {
+        "name": "Hawthorne", 
+        "coordinates": [
+            -118.3525748, 
+            33.9164032
+        ]
+    }, 
+    {
+        "name": "Trenton", 
+        "coordinates": [
+            -74.7429384, 
+            40.2170534
+        ]
+    }, 
+    {
+        "name": "League City", 
+        "coordinates": [
+            -95.0949303, 
+            29.5074538
+        ]
+    }, 
+    {
+        "name": "Asheville", 
+        "coordinates": [
+            -82.5514869, 
+            35.5950581
+        ]
+    }, 
+    {
+        "name": "Citrus Heights", 
+        "coordinates": [
+            -121.2810611, 
+            38.7071247
+        ]
+    }, 
+    {
+        "name": "Clifton", 
+        "coordinates": [
+            -74.16375529999999, 
+            40.8584328
+        ]
+    }, 
+    {
+        "name": "Tracy", 
+        "coordinates": [
+            -121.4252227, 
+            37.7396513
+        ]
+    }, 
+    {
+        "name": "Westland", 
+        "coordinates": [
+            -83.400211, 
+            42.32420399999999
+        ]
+    }, 
+    {
+        "name": "Sioux City", 
+        "coordinates": [
+            -96.40030689999999, 
+            42.4999942
+        ]
+    }, 
+    {
+        "name": "Edmond", 
+        "coordinates": [
+            -97.47809540000002, 
+            35.6528323
+        ]
+    }, 
+    {
+        "name": "Nampa", 
+        "coordinates": [
+            -116.5634624, 
+            43.5407172
+        ]
+    }, 
+    {
+        "name": "Warwick", 
+        "coordinates": [
+            -71.4161671, 
+            41.7001009
+        ]
+    }, 
+    {
+        "name": "Livermore", 
+        "coordinates": [
+            -121.7680088, 
+            37.6818745
+        ]
+    }, 
+    {
+        "name": "Hoover", 
+        "coordinates": [
+            -86.8113781, 
+            33.4053867
+        ]
+    }, 
+    {
+        "name": "Bellingham", 
+        "coordinates": [
+            -122.4781473, 
+            48.74908
+        ]
+    }, 
+    {
+        "name": "Buena Park", 
+        "coordinates": [
+            -117.9981181, 
+            33.8675143
+        ]
+    }, 
+    {
+        "name": "Sugar Land", 
+        "coordinates": [
+            -95.6349463, 
+            29.6196787
+        ]
+    }, 
+    {
+        "name": "Troy", 
+        "coordinates": [
+            -83.1497751, 
+            42.6064095
+        ]
+    }, 
+    {
+        "name": "Bloomington", 
+        "coordinates": [
+            -86.52638569999999, 
+            39.165325
+        ]
+    }, 
+    {
+        "name": "Longview", 
+        "coordinates": [
+            -94.74048909999999, 
+            32.5007037
+        ]
+    }, 
+    {
+        "name": "Champaign", 
+        "coordinates": [
+            -88.2433829, 
+            40.1164204
+        ]
+    }, 
+    {
+        "name": "Parma", 
+        "coordinates": [
+            -81.7229086, 
+            41.4047742
+        ]
+    }, 
+    {
+        "name": "Hammond", 
+        "coordinates": [
+            -87.5000412, 
+            41.5833688
+        ]
+    }, 
+    {
+        "name": "Lakewood", 
+        "coordinates": [
+            -118.1339563, 
+            33.8536269
+        ]
+    }, 
+    {
+        "name": "Concord", 
+        "coordinates": [
+            -80.579511, 
+            35.4087517
+        ]
+    }, 
+    {
+        "name": "O'Fallon", 
+        "coordinates": [
+            -90.69984769999999, 
+            38.8106075
+        ]
+    }, 
+    {
+        "name": "Hemet", 
+        "coordinates": [
+            -116.9719684, 
+            33.7475203
+        ]
+    }, 
+    {
+        "name": "Merced", 
+        "coordinates": [
+            -120.4829677, 
+            37.3021632
+        ]
+    }, 
+    {
+        "name": "Gary", 
+        "coordinates": [
+            -87.3464271, 
+            41.5933696
+        ]
+    }, 
+    {
+        "name": "Mission", 
+        "coordinates": [
+            -98.32529319999999, 
+            26.2159066
+        ]
+    }, 
+    {
+        "name": "Menifee", 
+        "coordinates": [
+            -117.185294, 
+            33.6971468
+        ]
+    }, 
+    {
+        "name": "Johns Creek", 
+        "coordinates": [
+            -84.198579, 
+            34.0289259
+        ]
+    }, 
+    {
+        "name": "Edinburg", 
+        "coordinates": [
+            -98.1633432, 
+            26.3017374
+        ]
+    }, 
+    {
+        "name": "Fishers", 
+        "coordinates": [
+            -86.01335, 
+            39.9567548
+        ]
+    }, 
+    {
+        "name": "Chino", 
+        "coordinates": [
+            -117.688944, 
+            34.0122346
+        ]
+    }, 
+    {
+        "name": "Racine", 
+        "coordinates": [
+            -87.78285230000002, 
+            42.7261309
+        ]
+    }, 
+    {
+        "name": "Lake Forest", 
+        "coordinates": [
+            -117.689218, 
+            33.6469661
+        ]
+    }, 
+    {
+        "name": "Largo", 
+        "coordinates": [
+            -82.7873244, 
+            27.9094665
+        ]
+    }, 
+    {
+        "name": "Albany", 
+        "coordinates": [
+            -84.15574099999999, 
+            31.5785074
+        ]
+    }, 
+    {
+        "name": "New Rochelle", 
+        "coordinates": [
+            -73.7823549, 
+            40.9114882
+        ]
+    }, 
+    {
+        "name": "Avondale", 
+        "coordinates": [
+            -112.3496021, 
+            33.4355977
+        ]
+    }, 
+    {
+        "name": "Bryan", 
+        "coordinates": [
+            -96.3699632, 
+            30.6743643
+        ]
+    }, 
+    {
+        "name": "Camden", 
+        "coordinates": [
+            -75.1196199, 
+            39.9259463
+        ]
+    }, 
+    {
+        "name": "St. Joseph", 
+        "coordinates": [
+            -94.84668099999999, 
+            39.7674578
+        ]
+    }, 
+    {
+        "name": "Bellflower", 
+        "coordinates": [
+            -118.1170117, 
+            33.8816818
+        ]
+    }, 
+    {
+        "name": "Bloomington", 
+        "coordinates": [
+            -88.99368729999999, 
+            40.4842027
+        ]
+    }, 
+    {
+        "name": "Lawrence", 
+        "coordinates": [
+            -71.1631137, 
+            42.7070354
+        ]
+    }, 
+    {
+        "name": "Lynchburg", 
+        "coordinates": [
+            -79.14224639999999, 
+            37.4137536
+        ]
+    }, 
+    {
+        "name": "Palm Coast", 
+        "coordinates": [
+            -81.20786989999999, 
+            29.5844524
+        ]
+    }, 
+    {
+        "name": "Deerfield Beach", 
+        "coordinates": [
+            -80.09976569999999, 
+            26.3184123
+        ]
+    }, 
+    {
+        "name": "Kennewick", 
+        "coordinates": [
+            -119.1372338, 
+            46.2112458
+        ]
+    }, 
+    {
+        "name": "Decatur", 
+        "coordinates": [
+            -88.9548001, 
+            39.8403147
+        ]
+    }, 
+    {
+        "name": "Melbourne", 
+        "coordinates": [
+            -80.60810889999999, 
+            28.0836269
+        ]
+    }, 
+    {
+        "name": "Scranton", 
+        "coordinates": [
+            -75.66241219999999, 
+            41.408969
+        ]
+    }, 
+    {
+        "name": "Baldwin Park", 
+        "coordinates": [
+            -117.9608978, 
+            34.0852868
+        ]
+    }, 
+    {
+        "name": "Chino Hills", 
+        "coordinates": [
+            -117.7325848, 
+            33.9898188
+        ]
+    }, 
+    {
+        "name": "Medford", 
+        "coordinates": [
+            -122.8755949, 
+            42.3265152
+        ]
+    }, 
+    {
+        "name": "Upland", 
+        "coordinates": [
+            -117.6483876, 
+            34.09751
+        ]
+    }, 
+    {
+        "name": "Evanston", 
+        "coordinates": [
+            -87.68769689999999, 
+            42.0450722
+        ]
+    }, 
+    {
+        "name": "Alameda", 
+        "coordinates": [
+            -122.2416355, 
+            37.7652065
+        ]
+    }, 
+    {
+        "name": "St. George", 
+        "coordinates": [
+            -113.5684164, 
+            37.0965278
+        ]
+    }, 
+    {
+        "name": "Kalamazoo", 
+        "coordinates": [
+            -85.5872286, 
+            42.2917069
+        ]
+    }, 
+    {
+        "name": "Schaumburg", 
+        "coordinates": [
+            -88.0834059, 
+            42.0333607
+        ]
+    }, 
+    {
+        "name": "Bolingbrook", 
+        "coordinates": [
+            -88.0683955, 
+            41.69864159999999
+        ]
+    }, 
+    {
+        "name": "San Ramon", 
+        "coordinates": [
+            -121.9780153, 
+            37.7799273
+        ]
+    }, 
+    {
+        "name": "Baytown", 
+        "coordinates": [
+            -94.97742740000001, 
+            29.7355047
+        ]
+    }, 
+    {
+        "name": "New Britain", 
+        "coordinates": [
+            -72.7795419, 
+            41.6612104
+        ]
+    }, 
+    {
+        "name": "Wyoming", 
+        "coordinates": [
+            -85.7053085, 
+            42.9133602
+        ]
+    }, 
+    {
+        "name": "Pharr", 
+        "coordinates": [
+            -98.1836216, 
+            26.1947962
+        ]
+    }, 
+    {
+        "name": "Lake Charles", 
+        "coordinates": [
+            -93.2173758, 
+            30.2265949
+        ]
+    }, 
+    {
+        "name": "Southfield", 
+        "coordinates": [
+            -83.2218731, 
+            42.4733688
+        ]
+    }, 
+    {
+        "name": "Gastonia", 
+        "coordinates": [
+            -81.18730049999999, 
+            35.262082
+        ]
+    }, 
+    {
+        "name": "Plymouth", 
+        "coordinates": [
+            -93.4555093, 
+            45.0105194
+        ]
+    }, 
+    {
+        "name": "Auburn", 
+        "coordinates": [
+            -122.2284532, 
+            47.30732279999999
+        ]
+    }, 
+    {
+        "name": "Rochester Hills", 
+        "coordinates": [
+            -83.1499322, 
+            42.65836609999999
+        ]
+    }, 
+    {
+        "name": "Springdale", 
+        "coordinates": [
+            -94.1288141, 
+            36.18674420000001
+        ]
+    }, 
+    {
+        "name": "Wilmington", 
+        "coordinates": [
+            -75.5397878, 
+            39.7390721
+        ]
+    }, 
+    {
+        "name": "Lynwood", 
+        "coordinates": [
+            -118.2114603, 
+            33.930293
+        ]
+    }, 
+    {
+        "name": "Apple Valley", 
+        "coordinates": [
+            -117.1858759, 
+            34.5008311
+        ]
+    }, 
+    {
+        "name": "Muncie", 
+        "coordinates": [
+            -85.3863599, 
+            40.1933767
+        ]
+    }, 
+    {
+        "name": "Perris", 
+        "coordinates": [
+            -117.2286478, 
+            33.7825194
+        ]
+    }, 
+    {
+        "name": "Passaic", 
+        "coordinates": [
+            -74.1284764, 
+            40.8567662
+        ]
+    }, 
+    {
+        "name": "Missouri City", 
+        "coordinates": [
+            -95.5377215, 
+            29.6185669
+        ]
+    }, 
+    {
+        "name": "Redlands", 
+        "coordinates": [
+            -117.1825381, 
+            34.0555693
+        ]
+    }, 
+    {
+        "name": "Mount Pleasant", 
+        "coordinates": [
+            -79.82842579999999, 
+            32.8323225
+        ]
+    }, 
+    {
+        "name": "Gulfport", 
+        "coordinates": [
+            -89.0928155, 
+            30.3674198
+        ]
+    }, 
+    {
+        "name": "Rapid City", 
+        "coordinates": [
+            -103.2310149, 
+            44.0805434
+        ]
+    }, 
+    {
+        "name": "Waterloo", 
+        "coordinates": [
+            -92.34257749999999, 
+            42.492786
+        ]
+    }, 
+    {
+        "name": "Santa Fe", 
+        "coordinates": [
+            -105.937799, 
+            35.6869752
+        ]
+    }, 
+    {
+        "name": "Jonesboro", 
+        "coordinates": [
+            -90.704279, 
+            35.84229670000001
+        ]
+    }, 
+    {
+        "name": "Warner Robins", 
+        "coordinates": [
+            -83.624201, 
+            32.6130007
+        ]
+    }, 
+    {
+        "name": "Layton", 
+        "coordinates": [
+            -111.9710529, 
+            41.0602216
+        ]
+    }, 
+    {
+        "name": "Manteca", 
+        "coordinates": [
+            -121.2160526, 
+            37.7974273
+        ]
+    }, 
+    {
+        "name": "Loveland", 
+        "coordinates": [
+            -105.0749801, 
+            40.3977612
+        ]
+    }, 
+    {
+        "name": "Lauderhill", 
+        "coordinates": [
+            -80.2133808, 
+            26.1403635
+        ]
+    }, 
+    {
+        "name": "Lafayette", 
+        "coordinates": [
+            -86.87528689999999, 
+            40.4167022
+        ]
+    }, 
+    {
+        "name": "Milpitas", 
+        "coordinates": [
+            -121.8995741, 
+            37.4323341
+        ]
+    }, 
+    {
+        "name": "Temple", 
+        "coordinates": [
+            -97.342782, 
+            31.0982344
+        ]
+    }, 
+    {
+        "name": "Union City", 
+        "coordinates": [
+            -74.26316349999999, 
+            40.6975898
+        ]
+    }, 
+    {
+        "name": "Flower Mound", 
+        "coordinates": [
+            -97.0969552, 
+            33.0145673
+        ]
+    }, 
+    {
+        "name": "Kenner", 
+        "coordinates": [
+            -90.2417434, 
+            29.9940924
+        ]
+    }, 
+    {
+        "name": "Eau Claire", 
+        "coordinates": [
+            -91.4984941, 
+            44.811349
+        ]
+    }, 
+    {
+        "name": "St. Charles", 
+        "coordinates": [
+            -90.4974359, 
+            38.7881062
+        ]
+    }, 
+    {
+        "name": "Youngstown", 
+        "coordinates": [
+            -80.6495194, 
+            41.0997803
+        ]
+    }, 
+    {
+        "name": "Weston", 
+        "coordinates": [
+            -80.3997748, 
+            26.1003654
+        ]
+    }, 
+    {
+        "name": "Portland", 
+        "coordinates": [
+            -70.2553259, 
+            43.66147100000001
+        ]
+    }, 
+    {
+        "name": "Oshkosh", 
+        "coordinates": [
+            -88.5426136, 
+            44.0247062
+        ]
+    }, 
+    {
+        "name": "Harlingen", 
+        "coordinates": [
+            -97.69610259999999, 
+            26.1906306
+        ]
+    }, 
+    {
+        "name": "Davis", 
+        "coordinates": [
+            -121.7405167, 
+            38.5449065
+        ]
+    }, 
+    {
+        "name": "Dothan", 
+        "coordinates": [
+            -85.3904888, 
+            31.2232313
+        ]
+    }, 
+    {
+        "name": "Flagstaff", 
+        "coordinates": [
+            -111.651302, 
+            35.1982836
+        ]
+    }, 
+    {
+        "name": "Camarillo", 
+        "coordinates": [
+            -119.0376023, 
+            34.2163937
+        ]
+    }, 
+    {
+        "name": "Rancho Cordova", 
+        "coordinates": [
+            -121.302728, 
+            38.5890723
+        ]
+    }, 
+    {
+        "name": "Palo Alto", 
+        "coordinates": [
+            -122.1430195, 
+            37.4418834
+        ]
+    }, 
+    {
+        "name": "Yorba Linda", 
+        "coordinates": [
+            -117.8131125, 
+            33.8886259
+        ]
+    }, 
+    {
+        "name": "Walnut Creek", 
+        "coordinates": [
+            -122.0651819, 
+            37.9100783
+        ]
+    }, 
+    {
+        "name": "Jackson", 
+        "coordinates": [
+            -88.81394689999999, 
+            35.6145169
+        ]
+    }, 
+    {
+        "name": "San Clemente", 
+        "coordinates": [
+            -117.6119925, 
+            33.4269728
+        ]
+    }, 
+    {
+        "name": "South San Francisco", 
+        "coordinates": [
+            -122.4077498, 
+            37.654656
+        ]
+    }, 
+    {
+        "name": "East Orange", 
+        "coordinates": [
+            -74.2048677, 
+            40.767323
+        ]
+    }, 
+    {
+        "name": "Franklin", 
+        "coordinates": [
+            -86.8688899, 
+            35.9250637
+        ]
+    }, 
+    {
+        "name": "Pittsburg", 
+        "coordinates": [
+            -121.8846806, 
+            38.0279762
+        ]
+    }, 
+    {
+        "name": "Lorain", 
+        "coordinates": [
+            -82.1823746, 
+            41.452819
+        ]
+    }, 
+    {
+        "name": "Laguna Niguel", 
+        "coordinates": [
+            -117.7075526, 
+            33.5225261
+        ]
+    }, 
+    {
+        "name": "Johnson City", 
+        "coordinates": [
+            -82.3534727, 
+            36.3134397
+        ]
+    }, 
+    {
+        "name": "Bayonne", 
+        "coordinates": [
+            -74.1143091, 
+            40.6687141
+        ]
+    }, 
+    {
+        "name": "Fort Myers", 
+        "coordinates": [
+            -81.8723084, 
+            26.640628
+        ]
+    }, 
+    {
+        "name": "Victoria", 
+        "coordinates": [
+            -97.0035982, 
+            28.8052674
+        ]
+    }, 
+    {
+        "name": "Montebello", 
+        "coordinates": [
+            -118.1137535, 
+            34.0165053
+        ]
+    }, 
+    {
+        "name": "North Little Rock", 
+        "coordinates": [
+            -92.2670941, 
+            34.769536
+        ]
+    }, 
+    {
+        "name": "Hamilton", 
+        "coordinates": [
+            -84.5613355, 
+            39.3995008
+        ]
+    }, 
+    {
+        "name": "Woodbury", 
+        "coordinates": [
+            -92.9593797, 
+            44.9238552
+        ]
+    }, 
+    {
+        "name": "Bossier City", 
+        "coordinates": [
+            -93.7321228, 
+            32.5159852
+        ]
+    }, 
+    {
+        "name": "Bismarck", 
+        "coordinates": [
+            -100.7837392, 
+            46.8083268
+        ]
+    }, 
+    {
+        "name": "Taylor", 
+        "coordinates": [
+            -83.2696509, 
+            42.240872
+        ]
+    }, 
+    {
+        "name": "Council Bluffs", 
+        "coordinates": [
+            -95.8608333, 
+            41.2619444
+        ]
+    }, 
+    {
+        "name": "Maple Grove", 
+        "coordinates": [
+            -93.4557877, 
+            45.0724642
+        ]
+    }, 
+    {
+        "name": "Coon Rapids", 
+        "coordinates": [
+            -93.30300629999999, 
+            45.1732394
+        ]
+    }, 
+    {
+        "name": "Eden Prairie", 
+        "coordinates": [
+            -93.47078599999999, 
+            44.8546856
+        ]
+    }, 
+    {
+        "name": "Tamarac", 
+        "coordinates": [
+            -80.2497707, 
+            26.2128609
+        ]
+    }, 
+    {
+        "name": "Haverhill", 
+        "coordinates": [
+            -71.0772796, 
+            42.7762015
+        ]
+    }, 
+    {
+        "name": "Kissimmee", 
+        "coordinates": [
+            -81.40757099999999, 
+            28.2919557
+        ]
+    }, 
+    {
+        "name": "Delray Beach", 
+        "coordinates": [
+            -80.0728201, 
+            26.4614625
+        ]
+    }, 
+    {
+        "name": "Waltham", 
+        "coordinates": [
+            -71.2356113, 
+            42.3764852
+        ]
+    }, 
+    {
+        "name": "La Habra", 
+        "coordinates": [
+            -117.9461734, 
+            33.9319578
+        ]
+    }, 
+    {
+        "name": "Gaithersburg", 
+        "coordinates": [
+            -77.2013705, 
+            39.1434406
+        ]
+    }, 
+    {
+        "name": "Daytona Beach", 
+        "coordinates": [
+            -81.0228331, 
+            29.2108147
+        ]
+    }, 
+    {
+        "name": "Terre Haute", 
+        "coordinates": [
+            -87.41390919999999, 
+            39.4667034
+        ]
+    }, 
+    {
+        "name": "Vineland", 
+        "coordinates": [
+            -75.02596369999999, 
+            39.4863773
+        ]
+    }, 
+    {
+        "name": "Burnsville", 
+        "coordinates": [
+            -93.27772259999999, 
+            44.7677424
+        ]
+    }, 
+    {
+        "name": "Marysville", 
+        "coordinates": [
+            -122.1770818, 
+            48.0517637
+        ]
+    }, 
+    {
+        "name": "Meriden", 
+        "coordinates": [
+            -72.80704349999999, 
+            41.5381535
+        ]
+    }, 
+    {
+        "name": "West Allis", 
+        "coordinates": [
+            -88.0070315, 
+            43.0166806
+        ]
+    }, 
+    {
+        "name": "Monterey Park", 
+        "coordinates": [
+            -118.1228476, 
+            34.0625106
+        ]
+    }, 
+    {
+        "name": "Bristol", 
+        "coordinates": [
+            -72.9492703, 
+            41.67176480000001
+        ]
+    }, 
+    {
+        "name": "Conway", 
+        "coordinates": [
+            -92.4421011, 
+            35.0886963
+        ]
+    }, 
+    {
+        "name": "Encinitas", 
+        "coordinates": [
+            -117.2919818, 
+            33.0369867
+        ]
+    }, 
+    {
+        "name": "Greenville", 
+        "coordinates": [
+            -82.3940104, 
+            34.85261759999999
+        ]
+    }, 
+    {
+        "name": "Cheyenne", 
+        "coordinates": [
+            -104.8202462, 
+            41.1399814
+        ]
+    }, 
+    {
+        "name": "Malden", 
+        "coordinates": [
+            -71.066163, 
+            42.4250964
+        ]
+    }, 
+    {
+        "name": "Lancaster", 
+        "coordinates": [
+            -76.3055144, 
+            40.0378755
+        ]
+    }, 
+    {
+        "name": "Pontiac", 
+        "coordinates": [
+            -83.29104679999999, 
+            42.6389216
+        ]
+    }, 
+    {
+        "name": "St. Clair Shores", 
+        "coordinates": [
+            -82.89636039999999, 
+            42.4974085
+        ]
+    }, 
+    {
+        "name": "Taylorsville", 
+        "coordinates": [
+            -111.9388258, 
+            40.66772479999999
+        ]
+    }, 
+    {
+        "name": "Springfield", 
+        "coordinates": [
+            -123.0220289, 
+            44.0462362
+        ]
+    }, 
+    {
+        "name": "New Braunfels", 
+        "coordinates": [
+            -98.1244531, 
+            29.7030024
+        ]
+    }, 
+    {
+        "name": "Alpharetta", 
+        "coordinates": [
+            -84.2940899, 
+            34.0753762
+        ]
+    }, 
+    {
+        "name": "National City", 
+        "coordinates": [
+            -117.0991967, 
+            32.6781085
+        ]
+    }, 
+    {
+        "name": "Great Falls", 
+        "coordinates": [
+            -111.2833449, 
+            47.4941836
+        ]
+    }, 
+    {
+        "name": "Bowling Green", 
+        "coordinates": [
+            -86.4808043, 
+            36.9685219
+        ]
+    }, 
+    {
+        "name": "Lakewood", 
+        "coordinates": [
+            -122.518458, 
+            47.1717649
+        ]
+    }, 
+    {
+        "name": "Grand Junction", 
+        "coordinates": [
+            -108.5506486, 
+            39.0638705
+        ]
+    }, 
+    {
+        "name": "Des Plaines", 
+        "coordinates": [
+            -87.88339909999999, 
+            42.0333623
+        ]
+    }, 
+    {
+        "name": "Huntington Park", 
+        "coordinates": [
+            -118.2250725, 
+            33.9816812
+        ]
+    }, 
+    {
+        "name": "Petaluma", 
+        "coordinates": [
+            -122.6366524, 
+            38.232417
+        ]
+    }, 
+    {
+        "name": "Rocklin", 
+        "coordinates": [
+            -121.2357828, 
+            38.7907339
+        ]
+    }, 
+    {
+        "name": "San Rafael", 
+        "coordinates": [
+            -122.5310874, 
+            37.9735346
+        ]
+    }, 
+    {
+        "name": "Dubuque", 
+        "coordinates": [
+            -90.66457179999999, 
+            42.5005583
+        ]
+    }, 
+    {
+        "name": "West Des Moines", 
+        "coordinates": [
+            -93.711332, 
+            41.5772115
+        ]
+    }, 
+    {
+        "name": "La Mesa", 
+        "coordinates": [
+            -117.0230839, 
+            32.7678287
+        ]
+    }, 
+    {
+        "name": "North Port", 
+        "coordinates": [
+            -82.2359254, 
+            27.044224
+        ]
+    }, 
+    {
+        "name": "Idaho Falls", 
+        "coordinates": [
+            -112.0339645, 
+            43.49165139999999
+        ]
+    }, 
+    {
+        "name": "Mansfield", 
+        "coordinates": [
+            -97.1416768, 
+            32.5631924
+        ]
+    }, 
+    {
+        "name": "Royal Oak", 
+        "coordinates": [
+            -83.1446485, 
+            42.4894801
+        ]
+    }, 
+    {
+        "name": "Owensboro", 
+        "coordinates": [
+            -87.1111676, 
+            37.7719074
+        ]
+    }, 
+    {
+        "name": "Blaine", 
+        "coordinates": [
+            -93.23494889999999, 
+            45.1607987
+        ]
+    }, 
+    {
+        "name": "Rogers", 
+        "coordinates": [
+            -94.1185366, 
+            36.3320196
+        ]
+    }, 
+    {
+        "name": "Rowlett", 
+        "coordinates": [
+            -96.56388, 
+            32.9029017
+        ]
+    }, 
+    {
+        "name": "Dearborn Heights", 
+        "coordinates": [
+            -83.27326269999999, 
+            42.3369816
+        ]
+    }, 
+    {
+        "name": "Wellington", 
+        "coordinates": [
+            -80.2683571, 
+            26.6617635
+        ]
+    }, 
+    {
+        "name": "Orland Park", 
+        "coordinates": [
+            -87.85394250000002, 
+            41.6303103
+        ]
+    }, 
+    {
+        "name": "Tinley Park", 
+        "coordinates": [
+            -87.7932939, 
+            41.5731442
+        ]
+    }, 
+    {
+        "name": "Oak Lawn", 
+        "coordinates": [
+            -87.7479528, 
+            41.719978
+        ]
+    }, 
+    {
+        "name": "Berwyn", 
+        "coordinates": [
+            -87.7936685, 
+            41.85058739999999
+        ]
+    }, 
+    {
+        "name": "Arcadia", 
+        "coordinates": [
+            -118.0353449, 
+            34.1397292
+        ]
+    }, 
+    {
+        "name": "Medford", 
+        "coordinates": [
+            -71.1061639, 
+            42.4184296
+        ]
+    }, 
+    {
+        "name": "Port Orange", 
+        "coordinates": [
+            -80.9956105, 
+            29.1383165
+        ]
+    }, 
+    {
+        "name": "Ocala", 
+        "coordinates": [
+            -82.14009229999999, 
+            29.1871986
+        ]
+    }, 
+    {
+        "name": "Fountain Valley", 
+        "coordinates": [
+            -117.9536697, 
+            33.7091847
+        ]
+    }, 
+    {
+        "name": "Valdosta", 
+        "coordinates": [
+            -83.2784851, 
+            30.8327022
+        ]
+    }, 
+    {
+        "name": "Casper", 
+        "coordinates": [
+            -106.313081, 
+            42.866632
+        ]
+    }, 
+    {
+        "name": "Anderson", 
+        "coordinates": [
+            -85.6802541, 
+            40.1053196
+        ]
+    }, 
+    {
+        "name": "Diamond Bar", 
+        "coordinates": [
+            -117.8103367, 
+            34.0286226
+        ]
+    }, 
+    {
+        "name": "Taunton", 
+        "coordinates": [
+            -71.0897674, 
+            41.900101
+        ]
+    }, 
+    {
+        "name": "Jupiter", 
+        "coordinates": [
+            -80.0942087, 
+            26.9342246
+        ]
+    }, 
+    {
+        "name": "Decatur", 
+        "coordinates": [
+            -86.9833417, 
+            34.6059253
+        ]
+    }, 
+    {
+        "name": "Woodland", 
+        "coordinates": [
+            -121.7732971, 
+            38.67851570000001
+        ]
+    }, 
+    {
+        "name": "Novi", 
+        "coordinates": [
+            -83.4754913, 
+            42.48059
+        ]
+    }, 
+    {
+        "name": "Bowie", 
+        "coordinates": [
+            -76.77913649999999, 
+            39.0067768
+        ]
+    }, 
+    {
+        "name": "Redmond", 
+        "coordinates": [
+            -122.121512, 
+            47.6739881
+        ]
+    }, 
+    {
+        "name": "Bartlett", 
+        "coordinates": [
+            -89.8739753, 
+            35.2045328
+        ]
+    }, 
+    {
+        "name": "Porterville", 
+        "coordinates": [
+            -119.0167679, 
+            36.06523
+        ]
+    }, 
+    {
+        "name": "Eastvale", 
+        "coordinates": [
+            -117.5848025, 
+            33.952463
+        ]
+    }, 
+    {
+        "name": "Pocatello", 
+        "coordinates": [
+            -112.4455344, 
+            42.8713032
+        ]
+    }, 
+    {
+        "name": "Corvallis", 
+        "coordinates": [
+            -123.2620435, 
+            44.5645659
+        ]
+    }, 
+    {
+        "name": "Elyria", 
+        "coordinates": [
+            -82.10764859999999, 
+            41.3683798
+        ]
+    }, 
+    {
+        "name": "Auburn", 
+        "coordinates": [
+            -85.48078249999999, 
+            32.6098566
+        ]
+    }, 
+    {
+        "name": "Paramount", 
+        "coordinates": [
+            -118.1597911, 
+            33.8894598
+        ]
+    }, 
+    {
+        "name": "Rosemead", 
+        "coordinates": [
+            -118.072846, 
+            34.0805651
+        ]
+    }, 
+    {
+        "name": "Weymouth Town", 
+        "coordinates": [
+            -70.94103559999999, 
+            42.2180724
+        ]
+    }, 
+    {
+        "name": "Hempstead", 
+        "coordinates": [
+            -73.6187397, 
+            40.7062128
+        ]
+    }, 
+    {
+        "name": "Shoreline", 
+        "coordinates": [
+            -122.3415178, 
+            47.7556531
+        ]
+    }, 
+    {
+        "name": "Port Arthur", 
+        "coordinates": [
+            -93.93994699999999, 
+            29.8849504
+        ]
+    }, 
+    {
+        "name": "Sanford", 
+        "coordinates": [
+            -81.269453, 
+            28.8028612
+        ]
+    }, 
+    {
+        "name": "Coconut Creek", 
+        "coordinates": [
+            -80.17893509999999, 
+            26.2517482
+        ]
+    }, 
+    {
+        "name": "Highland", 
+        "coordinates": [
+            -117.2086513, 
+            34.1283442
+        ]
+    }, 
+    {
+        "name": "Delano", 
+        "coordinates": [
+            -119.2470536, 
+            35.7688425
+        ]
+    }, 
+    {
+        "name": "Manhattan", 
+        "coordinates": [
+            -96.57166939999999, 
+            39.18360819999999
+        ]
+    }, 
+    {
+        "name": "Wheaton", 
+        "coordinates": [
+            -88.1070127, 
+            41.8661403
+        ]
+    }, 
+    {
+        "name": "Colton", 
+        "coordinates": [
+            -117.3136547, 
+            34.0739016
+        ]
+    }, 
+    {
+        "name": "Lake Havasu City", 
+        "coordinates": [
+            -114.3224548, 
+            34.483901
+        ]
+    }, 
+    {
+        "name": "Normal", 
+        "coordinates": [
+            -88.9906312, 
+            40.5142026
+        ]
+    }, 
+    {
+        "name": "Blue Springs", 
+        "coordinates": [
+            -94.2816148, 
+            39.0169509
+        ]
+    }, 
+    {
+        "name": "Grand Forks", 
+        "coordinates": [
+            -97.0328547, 
+            47.9252568
+        ]
+    }, 
+    {
+        "name": "Revere", 
+        "coordinates": [
+            -71.0119948, 
+            42.4084302
+        ]
+    }, 
+    {
+        "name": "Novato", 
+        "coordinates": [
+            -122.5697032, 
+            38.1074198
+        ]
+    }, 
+    {
+        "name": "Euless", 
+        "coordinates": [
+            -97.08195409999999, 
+            32.8370727
+        ]
+    }, 
+    {
+        "name": "Cathedral City", 
+        "coordinates": [
+            -116.4668036, 
+            33.7805388
+        ]
+    }, 
+    {
+        "name": "Florissant", 
+        "coordinates": [
+            -90.322614, 
+            38.789217
+        ]
+    }, 
+    {
+        "name": "Yucaipa", 
+        "coordinates": [
+            -117.0430865, 
+            34.033625
+        ]
+    }, 
+    {
+        "name": "Hoffman Estates", 
+        "coordinates": [
+            -88.12271989999999, 
+            42.0629915
+        ]
+    }, 
+    {
+        "name": "Oak Park", 
+        "coordinates": [
+            -87.7845025, 
+            41.8850317
+        ]
+    }, 
+    {
+        "name": "Battle Creek", 
+        "coordinates": [
+            -85.17971419999999, 
+            42.3211522
+        ]
+    }, 
+    {
+        "name": "Smyrna", 
+        "coordinates": [
+            -84.51437609999999, 
+            33.8839926
+        ]
+    }, 
+    {
+        "name": "Lakewood", 
+        "coordinates": [
+            -81.7981908, 
+            41.4819932
+        ]
+    }, 
+    {
+        "name": "La Crosse", 
+        "coordinates": [
+            -91.23958069999999, 
+            43.8013556
+        ]
+    }, 
+    {
+        "name": "Peabody", 
+        "coordinates": [
+            -70.9286609, 
+            42.5278731
+        ]
+    }, 
+    {
+        "name": "Buckeye", 
+        "coordinates": [
+            -112.5837766, 
+            33.3703197
+        ]
+    }, 
+    {
+        "name": "Bellevue", 
+        "coordinates": [
+            -95.9145568, 
+            41.1543623
+        ]
+    }, 
+    {
+        "name": "Placentia", 
+        "coordinates": [
+            -117.8703363, 
+            33.8722371
+        ]
+    }, 
+    {
+        "name": "Cedar Park", 
+        "coordinates": [
+            -97.8202888, 
+            30.505198
+        ]
+    }, 
+    {
+        "name": "Saginaw", 
+        "coordinates": [
+            -83.9508068, 
+            43.4194699
+        ]
+    }, 
+    {
+        "name": "Milford city", 
+        "coordinates": [
+            -73.064036, 
+            41.2306979
+        ]
+    }, 
+    {
+        "name": "Charleston", 
+        "coordinates": [
+            -81.6326234, 
+            38.3498195
+        ]
+    }, 
+    {
+        "name": "Perth Amboy", 
+        "coordinates": [
+            -74.2654234, 
+            40.5067723
+        ]
+    }, 
+    {
+        "name": "Burlington", 
+        "coordinates": [
+            -79.43779909999999, 
+            36.0956918
+        ]
+    }, 
+    {
+        "name": "Albany", 
+        "coordinates": [
+            -123.1059282, 
+            44.6365107
+        ]
+    }, 
+    {
+        "name": "Joplin", 
+        "coordinates": [
+            -94.51328099999999, 
+            37.08422710000001
+        ]
+    }, 
+    {
+        "name": "West New York", 
+        "coordinates": [
+            -74.0143064, 
+            40.7878788
+        ]
+    }, 
+    {
+        "name": "Bradenton", 
+        "coordinates": [
+            -82.5748194, 
+            27.4989278
+        ]
+    }, 
+    {
+        "name": "Troy", 
+        "coordinates": [
+            -73.69178509999999, 
+            42.7284117
+        ]
+    }, 
+    {
+        "name": "Niagara Falls", 
+        "coordinates": [
+            -79.0377388, 
+            43.0962143
+        ]
+    }, 
+    {
+        "name": "Plainfield", 
+        "coordinates": [
+            -74.4073736, 
+            40.6337136
+        ]
+    }, 
+    {
+        "name": "DeSoto", 
+        "coordinates": [
+            -96.8570738, 
+            32.5896998
+        ]
+    }
+]
+
