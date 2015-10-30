@@ -11,25 +11,17 @@
                         {
                             "name": "american", 
                             "size": 2
-                        }, 
-                        {
-                            "name": "non", 
-                            "size": 2
-                        }, 
-                        {
-                            "name": "jewish", 
-                            "size": 2
                         }
                     ], 
                     "name": "arab"
                 }, 
                 {
                     "name": "arab", 
-                    "size": 9
+                    "size": 7
                 }, 
                 {
                     "name": "jewish", 
-                    "size": 8
+                    "size": 6
                 }, 
                 {
                     "name": "north_african", 
@@ -105,10 +97,6 @@
                 }, 
                 {
                     "name": "pacific", 
-                    "size": 2
-                }, 
-                {
-                    "name": "non", 
                     "size": 2
                 }, 
                 {
@@ -340,10 +328,6 @@
                 {
                     "name": "portuguese", 
                     "size": 2
-                }, 
-                {
-                    "name": "non", 
-                    "size": 1
                 }, 
                 {
                     "name": "english", 
