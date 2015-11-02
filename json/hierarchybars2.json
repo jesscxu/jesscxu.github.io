@@ -1,0 +1,1859 @@
+{
+    "children": [
+        {
+            "name": "middle_eastern", 
+            "size": 188
+        }, 
+        {
+            "children": [
+                {
+                    "name": "arab", 
+                    "size": 7
+                }, 
+                {
+                    "name": "jewish", 
+                    "size": 6
+                }, 
+                {
+                    "name": "north_african", 
+                    "size": 5
+                }, 
+                {
+                    "name": "iranian", 
+                    "size": 4
+                }, 
+                {
+                    "name": "egyptian", 
+                    "size": 4
+                }, 
+                {
+                    "name": "semitic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "american", 
+                    "size": 2
+                }, 
+                {
+                    "name": "central", 
+                    "size": 2
+                }, 
+                {
+                    "name": "lebonese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "assyrian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "european", 
+                    "size": 2
+                }, 
+                {
+                    "name": "caucasian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "white", 
+                    "size": 2
+                }, 
+                {
+                    "name": "azerbaijani", 
+                    "size": 2
+                }, 
+                {
+                    "name": "indian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "asia", 
+                    "size": 2
+                }, 
+                {
+                    "name": "syrian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "spanish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "asian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "persian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "pacific", 
+                    "size": 2
+                }, 
+                {
+                    "name": "egypt", 
+                    "size": 2
+                }
+            ], 
+            "name": "middle_eastern"
+        }, 
+        {
+            "name": "american", 
+            "size": 11
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "white", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "egyptian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "african", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "european"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "swedish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "irish", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "central", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "german", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "mediterranean", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "african", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "chicano", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "spanish", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "asian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "caucasion", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "mixed", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "white", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "italian", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "indian"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "celtic", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "german", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "biracial", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "british", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "indian", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "mixed", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "white", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "creole", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "caucasian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "european", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "african"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "irish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "indian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "spanish", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "italian"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "swedish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "irish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "chicano", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "british", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "indian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "african", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "polish", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "german"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "canadian", 
+                            "size": 3
+                        }, 
+                        {
+                            "name": "german", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "english", 
+                            "size": 1
+                        }, 
+                        {
+                            "name": "french", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "indian", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "spanish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "mixed", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "white", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "italian", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "irish"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "afro", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "caribbean"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "mixed", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "indian", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "asian"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "cajun", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "irish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "indian", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "asian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "african", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "white", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "mixed"
+                }, 
+                {
+                    "name": "white", 
+                    "size": 10
+                }, 
+                {
+                    "name": "arab", 
+                    "size": 8
+                }, 
+                {
+                    "name": "spanish", 
+                    "size": 6
+                }, 
+                {
+                    "name": "caucasian", 
+                    "size": 5
+                }, 
+                {
+                    "name": "carribean", 
+                    "size": 4
+                }, 
+                {
+                    "name": "chicano", 
+                    "size": 4
+                }, 
+                {
+                    "name": "creole", 
+                    "size": 4
+                }, 
+                {
+                    "name": "black", 
+                    "size": 4
+                }, 
+                {
+                    "name": "mutt", 
+                    "size": 4
+                }, 
+                {
+                    "name": "nigerian", 
+                    "size": 4
+                }, 
+                {
+                    "name": "chinese", 
+                    "size": 4
+                }, 
+                {
+                    "name": "canadian", 
+                    "size": 3
+                }, 
+                {
+                    "name": "greek", 
+                    "size": 3
+                }, 
+                {
+                    "name": "japanese", 
+                    "size": 3
+                }, 
+                {
+                    "name": "mexican", 
+                    "size": 3
+                }, 
+                {
+                    "name": "jamaican", 
+                    "size": 2
+                }, 
+                {
+                    "name": "hispanic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "british", 
+                    "size": 2
+                }, 
+                {
+                    "name": "iranian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "central", 
+                    "size": 2
+                }, 
+                {
+                    "name": "celtic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "lebanese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "ghanaian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "indo", 
+                    "size": 2
+                }, 
+                {
+                    "name": "caucasion", 
+                    "size": 2
+                }, 
+                {
+                    "name": "norwegian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "french", 
+                    "size": 2
+                }, 
+                {
+                    "name": "welsh", 
+                    "size": 2
+                }, 
+                {
+                    "name": "egyptian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "eastern_european", 
+                    "size": 2
+                }, 
+                {
+                    "name": "biracial", 
+                    "size": 2
+                }, 
+                {
+                    "name": "cajun", 
+                    "size": 2
+                }, 
+                {
+                    "name": "swedish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "afro", 
+                    "size": 2
+                }, 
+                {
+                    "name": "polish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "hapa", 
+                    "size": 2
+                }, 
+                {
+                    "name": "mediterranean", 
+                    "size": 2
+                }, 
+                {
+                    "name": "scottish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "portuguese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "heinz", 
+                    "size": 2
+                }, 
+                {
+                    "name": "jamaica", 
+                    "size": 2
+                }, 
+                {
+                    "name": "english", 
+                    "size": 1
+                }
+            ], 
+            "name": "american"
+        }, 
+        {
+            "name": "italian", 
+            "size": 87
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "filipino", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "german", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "spanish", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "french", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "russian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "scottish", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "mixed", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "polish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "scotch", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "irish"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "swedish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "irish", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "icelandic", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "english", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "french", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "norwegian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "scottish", 
+                            "size": 4
+                        }
+                    ], 
+                    "name": "german"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "irish", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "southern_european", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "cuban", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "french", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "greek", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "british", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "basque", 
+                            "size": 1
+                        }, 
+                        {
+                            "name": "polish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "european", 
+                            "size": 1
+                        }
+                    ], 
+                    "name": "spanish"
+                }, 
+                {
+                    "name": "french", 
+                    "size": 10
+                }, 
+                {
+                    "name": "polish", 
+                    "size": 8
+                }, 
+                {
+                    "name": "english", 
+                    "size": 6
+                }, 
+                {
+                    "name": "mixed", 
+                    "size": 4
+                }, 
+                {
+                    "name": "greek", 
+                    "size": 4
+                }, 
+                {
+                    "name": "russian", 
+                    "size": 4
+                }, 
+                {
+                    "name": "scottish", 
+                    "size": 4
+                }, 
+                {
+                    "name": "sicilian", 
+                    "size": 4
+                }, 
+                {
+                    "name": "portuguese", 
+                    "size": 4
+                }, 
+                {
+                    "name": "jewish", 
+                    "size": 3
+                }, 
+                {
+                    "name": "european", 
+                    "size": 3
+                }, 
+                {
+                    "name": "white", 
+                    "size": 3
+                }, 
+                {
+                    "name": "asian", 
+                    "size": 3
+                }, 
+                {
+                    "name": "puerto_rican", 
+                    "size": 2
+                }, 
+                {
+                    "name": "scotch", 
+                    "size": 2
+                }, 
+                {
+                    "name": "hispanic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "scandinavian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "british", 
+                    "size": 2
+                }, 
+                {
+                    "name": "filipino", 
+                    "size": 2
+                }, 
+                {
+                    "name": "cuban", 
+                    "size": 2
+                }, 
+                {
+                    "name": "lebanese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "cape_verdean", 
+                    "size": 2
+                }, 
+                {
+                    "name": "norwegian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "celtic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "egyptian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "hungarian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "latin", 
+                    "size": 2
+                }, 
+                {
+                    "name": "danish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "creole", 
+                    "size": 2
+                }, 
+                {
+                    "name": "brazilian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "indian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "turkish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "icelandic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "swedish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "hebrew", 
+                    "size": 2
+                }, 
+                {
+                    "name": "syrian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "arabic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "austrian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "southern_european", 
+                    "size": 2
+                }, 
+                {
+                    "name": "japanese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "mediterranean", 
+                    "size": 2
+                }, 
+                {
+                    "name": "basque", 
+                    "size": 1
+                }, 
+                {
+                    "name": "caucasian", 
+                    "size": 1
+                }, 
+                {
+                    "name": "black", 
+                    "size": 1
+                }
+            ], 
+            "name": "italian"
+        }, 
+        {
+            "name": "irish", 
+            "size": 27
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "swedish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "portuguese", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "chinese", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "english", 
+                            "size": 8
+                        }, 
+                        {
+                            "name": "cherokee", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "dutch", 
+                            "size": 6
+                        }, 
+                        {
+                            "name": "french", 
+                            "size": 6
+                        }, 
+                        {
+                            "name": "spanish", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "jewish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "norwegian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "indian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "black", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "ukranian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "scottish", 
+                            "size": 10
+                        }, 
+                        {
+                            "name": "russian", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "polish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "puerto_rican", 
+                            "size": 4
+                        }
+                    ], 
+                    "name": "german"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "swedish", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "heinz", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "northern_european", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "german", 
+                            "size": 8
+                        }, 
+                        {
+                            "name": "palauan", 
+                            "size": 1
+                        }, 
+                        {
+                            "name": "norwegian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "scottish", 
+                            "size": 7
+                        }, 
+                        {
+                            "name": "polish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "scandinavian", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "english"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "ukranian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "heinz", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "chinese", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "german", 
+                            "size": 10
+                        }, 
+                        {
+                            "name": "english", 
+                            "size": 7
+                        }, 
+                        {
+                            "name": "jewish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "cherokee", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "black", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "dutch", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "russian", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "scottish"
+                }, 
+                {
+                    "children": [
+                        {
+                            "name": "canadian", 
+                            "size": 4
+                        }, 
+                        {
+                            "name": "welsh", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "dutch", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "british", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "german", 
+                            "size": 6
+                        }, 
+                        {
+                            "name": "indian", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "spanish", 
+                            "size": 2
+                        }, 
+                        {
+                            "name": "puerto_rican", 
+                            "size": 2
+                        }
+                    ], 
+                    "name": "french"
+                }, 
+                {
+                    "name": "dutch", 
+                    "size": 8
+                }, 
+                {
+                    "name": "jewish", 
+                    "size": 8
+                }, 
+                {
+                    "name": "swedish", 
+                    "size": 8
+                }, 
+                {
+                    "name": "indian", 
+                    "size": 7
+                }, 
+                {
+                    "name": "canadian", 
+                    "size": 6
+                }, 
+                {
+                    "name": "russian", 
+                    "size": 6
+                }, 
+                {
+                    "name": "norwegian", 
+                    "size": 6
+                }, 
+                {
+                    "name": "black", 
+                    "size": 6
+                }, 
+                {
+                    "name": "polish", 
+                    "size": 6
+                }, 
+                {
+                    "name": "spanish", 
+                    "size": 6
+                }, 
+                {
+                    "name": "welsh", 
+                    "size": 5
+                }, 
+                {
+                    "name": "puerto_rican", 
+                    "size": 4
+                }, 
+                {
+                    "name": "scotch", 
+                    "size": 4
+                }, 
+                {
+                    "name": "white", 
+                    "size": 4
+                }, 
+                {
+                    "name": "cherokee", 
+                    "size": 4
+                }, 
+                {
+                    "name": "portuguese", 
+                    "size": 4
+                }, 
+                {
+                    "name": "british", 
+                    "size": 3
+                }, 
+                {
+                    "name": "chilean", 
+                    "size": 3
+                }, 
+                {
+                    "name": "hispanic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "scandinavian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "finnish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "west_indian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "greek", 
+                    "size": 2
+                }, 
+                {
+                    "name": "hungarian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "slavic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "ukranian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "european", 
+                    "size": 2
+                }, 
+                {
+                    "name": "czech", 
+                    "size": 2
+                }, 
+                {
+                    "name": "northern_european", 
+                    "size": 2
+                }, 
+                {
+                    "name": "filipino", 
+                    "size": 2
+                }, 
+                {
+                    "name": "scots", 
+                    "size": 2
+                }, 
+                {
+                    "name": "japanese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "chinese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "mexican", 
+                    "size": 2
+                }, 
+                {
+                    "name": "heinz", 
+                    "size": 2
+                }, 
+                {
+                    "name": "scandanavian", 
+                    "size": 1
+                }, 
+                {
+                    "name": "scandinavia", 
+                    "size": 1
+                }, 
+                {
+                    "name": "pe", 
+                    "size": 1
+                }, 
+                {
+                    "name": "eastern", 
+                    "size": 1
+                }, 
+                {
+                    "name": "eastern_european", 
+                    "size": 1
+                }, 
+                {
+                    "name": "palauan", 
+                    "size": 1
+                }
+            ], 
+            "name": "irish"
+        }, 
+        {
+            "name": "jewish", 
+            "size": 95
+        }, 
+        {
+            "children": [
+                {
+                    "name": "eastern_european", 
+                    "size": 6
+                }, 
+                {
+                    "name": "russian", 
+                    "size": 5
+                }, 
+                {
+                    "name": "sephardic", 
+                    "size": 4
+                }, 
+                {
+                    "name": "european", 
+                    "size": 2
+                }, 
+                {
+                    "name": "semitic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "polish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "english", 
+                    "size": 2
+                }, 
+                {
+                    "name": "ukrainian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "greek", 
+                    "size": 2
+                }, 
+                {
+                    "name": "sephardi", 
+                    "size": 2
+                }, 
+                {
+                    "name": "jewishc", 
+                    "size": 2
+                }, 
+                {
+                    "name": "none", 
+                    "size": 2
+                }, 
+                {
+                    "name": "biracial", 
+                    "size": 2
+                }, 
+                {
+                    "name": "iranian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "hungarian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "filipino", 
+                    "size": 2
+                }, 
+                {
+                    "name": "scottish", 
+                    "size": 2
+                }
+            ], 
+            "name": "jewish"
+        }, 
+        {
+            "name": "german", 
+            "size": 32
+        }, 
+        {
+            "children": [
+                {
+                    "name": "french", 
+                    "size": 6
+                }, 
+                {
+                    "name": "english", 
+                    "size": 4
+                }, 
+                {
+                    "name": "polish", 
+                    "size": 4
+                }, 
+                {
+                    "name": "mostly", 
+                    "size": 4
+                }, 
+                {
+                    "name": "dutch", 
+                    "size": 4
+                }, 
+                {
+                    "name": "indian", 
+                    "size": 4
+                }, 
+                {
+                    "name": "cherokee", 
+                    "size": 4
+                }, 
+                {
+                    "name": "european", 
+                    "size": 3
+                }, 
+                {
+                    "name": "croatian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "brazilian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "scandinavian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "canadian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "finnish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "celtic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "korean", 
+                    "size": 2
+                }, 
+                {
+                    "name": "heritage", 
+                    "size": 2
+                }, 
+                {
+                    "name": "egyptian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "austrian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "white", 
+                    "size": 2
+                }, 
+                {
+                    "name": "turkish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "swedish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "mexican", 
+                    "size": 2
+                }, 
+                {
+                    "name": "spanish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "persian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "scottish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "sicilian", 
+                    "size": 2
+                }
+            ], 
+            "name": "german"
+        }, 
+        {
+            "name": "european", 
+            "size": 35
+        }, 
+        {
+            "children": [
+                {
+                    "name": "mutt", 
+                    "size": 4
+                }, 
+                {
+                    "name": "mixed", 
+                    "size": 4
+                }, 
+                {
+                    "name": "black", 
+                    "size": 3
+                }, 
+                {
+                    "name": "african", 
+                    "size": 3
+                }, 
+                {
+                    "name": "spain", 
+                    "size": 2
+                }, 
+                {
+                    "name": "caucasian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "white", 
+                    "size": 2
+                }, 
+                {
+                    "name": "heritage", 
+                    "size": 2
+                }, 
+                {
+                    "name": "french", 
+                    "size": 2
+                }, 
+                {
+                    "name": "hispanic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "background", 
+                    "size": 2
+                }, 
+                {
+                    "name": "indo", 
+                    "size": 2
+                }, 
+                {
+                    "name": "slavic", 
+                    "size": 2
+                }, 
+                {
+                    "name": "portuguese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "russian", 
+                    "size": 1
+                }, 
+                {
+                    "name": "pe", 
+                    "size": 1
+                }, 
+                {
+                    "name": "pacific", 
+                    "size": 1
+                }, 
+                {
+                    "name": "islander", 
+                    "size": 1
+                }
+            ], 
+            "name": "european"
+        }, 
+        {
+            "name": "indian", 
+            "size": 4
+        }, 
+        {
+            "children": [
+                {
+                    "name": "white", 
+                    "size": 9
+                }, 
+                {
+                    "name": "black", 
+                    "size": 9
+                }, 
+                {
+                    "name": "south_asian", 
+                    "size": 7
+                }, 
+                {
+                    "name": "mixed", 
+                    "size": 6
+                }, 
+                {
+                    "name": "french", 
+                    "size": 6
+                }, 
+                {
+                    "name": "canadian", 
+                    "size": 5
+                }, 
+                {
+                    "name": "southeast_asian", 
+                    "size": 5
+                }, 
+                {
+                    "name": "subcontinent", 
+                    "size": 4
+                }, 
+                {
+                    "name": "asian", 
+                    "size": 4
+                }, 
+                {
+                    "name": "portuguese", 
+                    "size": 4
+                }, 
+                {
+                    "name": "south_american", 
+                    "size": 3
+                }, 
+                {
+                    "name": "english", 
+                    "size": 2
+                }, 
+                {
+                    "name": "burmese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "punjabi", 
+                    "size": 2
+                }, 
+                {
+                    "name": "east_indian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "arab", 
+                    "size": 2
+                }, 
+                {
+                    "name": "caucasian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "sri_lankan", 
+                    "size": 2
+                }, 
+                {
+                    "name": "spanish", 
+                    "size": 2
+                }, 
+                {
+                    "name": "duch", 
+                    "size": 2
+                }, 
+                {
+                    "name": "mexican", 
+                    "size": 2
+                }, 
+                {
+                    "name": "taino", 
+                    "size": 1
+                }, 
+                {
+                    "name": "chilean", 
+                    "size": 1
+                }, 
+                {
+                    "name": "carribbean", 
+                    "size": 1
+                }, 
+                {
+                    "name": "hispanic", 
+                    "size": 1
+                }
+            ], 
+            "name": "indian"
+        }, 
+        {
+            "name": "portuguese", 
+            "size": 70
+        }, 
+        {
+            "children": [
+                {
+                    "name": "spanish", 
+                    "size": 4
+                }, 
+                {
+                    "name": "french", 
+                    "size": 2
+                }, 
+                {
+                    "name": "japanese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "african", 
+                    "size": 2
+                }, 
+                {
+                    "name": "filipino", 
+                    "size": 2
+                }, 
+                {
+                    "name": "chinese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "cape_verdean", 
+                    "size": 2
+                }, 
+                {
+                    "name": "azorian", 
+                    "size": 2
+                }
+            ], 
+            "name": "portuguese"
+        }, 
+        {
+            "name": "white", 
+            "size": 2
+        }, 
+        {
+            "children": [
+                {
+                    "name": "asian", 
+                    "size": 9
+                }, 
+                {
+                    "name": "mixed", 
+                    "size": 8
+                }, 
+                {
+                    "name": "black", 
+                    "size": 5
+                }, 
+                {
+                    "name": "hispanic", 
+                    "size": 5
+                }, 
+                {
+                    "name": "biracial", 
+                    "size": 4
+                }, 
+                {
+                    "name": "korean", 
+                    "size": 2
+                }, 
+                {
+                    "name": "latino", 
+                    "size": 2
+                }, 
+                {
+                    "name": "central", 
+                    "size": 2
+                }, 
+                {
+                    "name": "south_asian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "americn", 
+                    "size": 2
+                }, 
+                {
+                    "name": "caucasian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "mexican", 
+                    "size": 2
+                }, 
+                {
+                    "name": "japanese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "chinese", 
+                    "size": 2
+                }, 
+                {
+                    "name": "brasilian", 
+                    "size": 2
+                }, 
+                {
+                    "name": "africn", 
+                    "size": 2
+                }, 
+                {
+                    "name": "eastern_eurpean", 
+                    "size": 1
+                }, 
+                {
+                    "name": "northern_european", 
+                    "size": 1
+                }
+            ], 
+            "name": "white"
+        }, 
+        {
+            "name": "egyptian", 
+            "size": 11
+        }, 
+        {
+            "name": "creole", 
+            "size": 13
+        }, 
+        {
+            "name": "puerto_rican", 
+            "size": 10
+        }, 
+        {
+            "name": "mediterranean", 
+            "size": 32
+        }, 
+        {
+            "name": "french", 
+            "size": 8
+        }, 
+        {
+            "name": "west_indian", 
+            "size": 20
+        }, 
+        {
+            "name": "american european", 
+            "size": 22
+        }, 
+        {
+            "name": "greek", 
+            "size": 27
+        }, 
+        {
+            "name": "eurasian", 
+            "size": 10
+        }, 
+        {
+            "name": "african", 
+            "size": 8
+        }, 
+        {
+            "name": "mexican", 
+            "size": 12
+        }, 
+        {
+            "name": "east_indian", 
+            "size": 25
+        }, 
+        {
+            "name": "south_asian", 
+            "size": 57
+        }, 
+        {
+            "name": "persian", 
+            "size": 44
+        }, 
+        {
+            "name": "cape_verdean", 
+            "size": 12
+        }, 
+        {
+            "name": "brazilian", 
+            "size": 8
+        }, 
+        {
+            "name": "caucasian", 
+            "size": 40
+        }, 
+        {
+            "name": "spanish", 
+            "size": 9
+        }, 
+        {
+            "name": "unknown", 
+            "size": 28
+        }, 
+        {
+            "name": "pakistani", 
+            "size": 9
+        }, 
+        {
+            "name": "iranian", 
+            "size": 18
+        }, 
+        {
+            "name": "arab american", 
+            "size": 8
+        }, 
+        {
+            "name": "lebanese", 
+            "size": 23
+        }, 
+        {
+            "name": "cajun", 
+            "size": 12
+        }, 
+        {
+            "name": "american caribbean", 
+            "size": 10
+        }, 
+        {
+            "name": "armenian", 
+            "size": 16
+        }, 
+        {
+            "name": "basque", 
+            "size": 16
+        }, 
+        {
+            "name": "french canadian", 
+            "size": 9
+        }, 
+        {
+            "name": "human", 
+            "size": 66
+        }, 
+        {
+            "name": "arab", 
+            "size": 36
+        }, 
+        {
+            "name": "american asian", 
+            "size": 8
+        }, 
+        {
+            "name": "southeast_asian", 
+            "size": 10
+        }, 
+        {
+            "name": "caribbean", 
+            "size": 23
+        }, 
+        {
+            "name": "filipino", 
+            "size": 43
+        }, 
+        {
+            "name": "american italian", 
+            "size": 12
+        }, 
+        {
+            "name": "jamaican", 
+            "size": 8
+        }, 
+        {
+            "name": "north_african", 
+            "size": 11
+        }
+    ], 
+    "name": "DATA"
+}
