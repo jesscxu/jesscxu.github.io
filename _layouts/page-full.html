@@ -28,9 +28,19 @@
                         <iframe
                           style="border: 0px;"
                           src="/viz/{{ page.vizlink}}"
+                          scrolling="yes"
+                          width="652px"
+                          height="700px">
+                        </iframe>
+                        {% endif %}
+
+                        {% if page.vizlink_small %}
+                        <iframe
+                          style="border: 0px;"
+                          src="/viz/{{ page.vizlink_small}}"
                           scrolling="no"
                           width="652px"
-                          height="756px">
+                          height="300px">
                         </iframe>
                         {% endif %}
 

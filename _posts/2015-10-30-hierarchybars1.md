@@ -1,5 +1,6 @@
 ---
 author: Jessica Xu
+layout: post-full
 title: Hierarchical Bar Graph
 featimg: hierarchybars1_preview.png
 type: visualization

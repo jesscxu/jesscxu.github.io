@@ -40,7 +40,7 @@
                             {{ page.title }}
                         </h1>
                         <div class="meta">
-                            {% include author.html%} &bull;
+
                             <span class="date">
                                 Published on {{ page.date | date: '%B %d, %Y' }}
                             </span>
@@ -50,6 +50,28 @@
                                 <img class="featimg" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.featimg }}" alt="{{ page.featimg }}">
                             {% endif %}
                         {% endif %}
+
+
+                        {% if page.vizlink %}
+                        <iframe
+                          style="border: 0px;"
+                          src="/viz/{{ page.vizlink}}"
+                          scrolling="yes"
+                          width="652px"
+                          height="700px">
+                        </iframe>
+                        {% endif %}
+
+                        {% if page.vizlink_small %}
+                        <iframe
+                          style="border: 0px;"
+                          src="/viz/{{ page.vizlink_small}}"
+                          scrolling="no"
+                          width="652px"
+                          height="300px">
+                        </iframe>
+                        {% endif %}
+
                         <div class="post-content">
                             {{ content }}
                         </div>

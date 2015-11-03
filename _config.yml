@@ -12,17 +12,11 @@ gems: [jekyll-paginate]
 tag_dir: /tag
 category_dir: /category
 author_dir: /author
-author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
 facebook: "https://www.facebook.com/jessica.xu.54"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+linkedin: "https://www.linkedin.com/in/jessicacxu"
+github: "https://github.com/jesscxu"
 
 encoding: utf-8
 defaults:
