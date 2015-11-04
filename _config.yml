@@ -1,5 +1,6 @@
 full_rebuild: true
 name: Jessica Xu
+highlighter: pygments
 description: A portfolio website for Jessica Xu.
 destination: jekyllbuild
 url: #place url
