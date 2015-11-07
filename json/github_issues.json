@@ -1,0 +1,344 @@
+[
+    {
+        "title": "Publish code for light sensor in a gist", 
+        "creator": "postfalk", 
+        "comments": 1, 
+        "dateCreated": "3/12", 
+        "dateClosed": "3/12", 
+        "dateUpdated": "3/12", 
+        "issue": 0
+    }, 
+    {
+        "title": "Find date to meet /w Collin Bode (BiGCB field station sensors)", 
+        "creator": "postfalk", 
+        "comments": 0, 
+        "dateCreated": "3/12", 
+        "dateClosed": null, 
+        "dateUpdated": "3/12", 
+        "issue": 1
+    }, 
+    {
+        "title": "Look into Apple iOS Developer Program", 
+        "creator": "KishPatel1996", 
+        "comments": 0, 
+        "dateCreated": "3/11", 
+        "dateClosed": null, 
+        "dateUpdated": "3/11", 
+        "issue": 2
+    }, 
+    {
+        "title": "Keep in sync with U Washington!", 
+        "creator": "davclark", 
+        "comments": 1, 
+        "dateCreated": "3/9", 
+        "dateClosed": null, 
+        "dateUpdated": "3/9", 
+        "issue": 3
+    }, 
+    {
+        "title": "Web graphic for system architecture", 
+        "creator": "davclark", 
+        "comments": 1, 
+        "dateCreated": "3/7", 
+        "dateClosed": "3/11", 
+        "dateUpdated": "3/11", 
+        "issue": 4
+    }, 
+    {
+        "title": "Add Slack Integration", 
+        "creator": "KishPatel1996", 
+        "comments": 3, 
+        "dateCreated": "3/5", 
+        "dateClosed": null, 
+        "dateUpdated": "3/6", 
+        "issue": 5
+    }, 
+    {
+        "title": "Agenda 4/7: Tying everything together", 
+        "creator": "postfalk", 
+        "comments": 0, 
+        "dateCreated": "3/4", 
+        "dateClosed": null, 
+        "dateUpdated": "3/6", 
+        "issue": 6
+    }, 
+    {
+        "title": "Agenda 3/31: Postgres and Bluetooth", 
+        "creator": "postfalk", 
+        "comments": 1, 
+        "dateCreated": "3/4", 
+        "dateClosed": null, 
+        "dateUpdated": "3/6", 
+        "issue": 7
+    }, 
+    {
+        "title": "Agenda Friday 3/20: Requirements", 
+        "creator": "postfalk", 
+        "comments": 8, 
+        "dateCreated": "3/4", 
+        "dateClosed": null, 
+        "dateUpdated": "3/11", 
+        "issue": 8
+    }, 
+    {
+        "title": "Agenda Tuesday 3/17: Dashboard", 
+        "creator": "postfalk", 
+        "comments": 0, 
+        "dateCreated": "3/4", 
+        "dateClosed": null, 
+        "dateUpdated": "3/6", 
+        "issue": 9
+    }, 
+    {
+        "title": "Doc strings are usually placed underneath the first line of a function/class declaration", 
+        "creator": "postfalk", 
+        "comments": 3, 
+        "dateCreated": "3/4", 
+        "dateClosed": "3/12", 
+        "dateUpdated": "3/12", 
+        "issue": 10
+    }, 
+    {
+        "title": "Cleanup example code from d3 tutorial and create bl.ocks.org example", 
+        "creator": "postfalk", 
+        "comments": 0, 
+        "dateCreated": "3/4", 
+        "dateClosed": "3/4", 
+        "dateUpdated": "3/11", 
+        "issue": 11
+    }, 
+    {
+        "title": "Introduction in D3.js", 
+        "creator": "postfalk", 
+        "comments": 6, 
+        "dateCreated": "3/3", 
+        "dateClosed": "3/4", 
+        "dateUpdated": "3/11", 
+        "issue": 12
+    }, 
+    {
+        "title": "Please add documentation how to install access token in external file.", 
+        "creator": "postfalk", 
+        "comments": 4, 
+        "dateCreated": "3/3", 
+        "dateClosed": "3/4", 
+        "dateUpdated": "3/4", 
+        "issue": 13
+    }, 
+    {
+        "title": "final test (ignore)", 
+        "creator": "KishPatel1996", 
+        "comments": 0, 
+        "dateCreated": "2/27", 
+        "dateClosed": "2/27", 
+        "dateUpdated": "2/27", 
+        "issue": 14
+    }, 
+    {
+        "title": "Constant Running Test Issue (IGNORE)", 
+        "creator": "KishPatel1996", 
+        "comments": 0, 
+        "dateCreated": "2/27", 
+        "dateClosed": "2/27", 
+        "dateUpdated": "2/27", 
+        "issue": 15
+    }, 
+    {
+        "title": "Test Issue", 
+        "creator": "KishPatel1996", 
+        "comments": 0, 
+        "dateCreated": "2/27", 
+        "dateClosed": "2/27", 
+        "dateUpdated": "2/27", 
+        "issue": 16
+    }, 
+    {
+        "title": "ASBase Queries All Failing", 
+        "creator": "KishPatel1996", 
+        "comments": 4, 
+        "dateCreated": "2/26", 
+        "dateClosed": "2/27", 
+        "dateUpdated": "2/27", 
+        "issue": 17
+    }, 
+    {
+        "title": "Agenda Tuesday 3/10: Arduino Xmas", 
+        "creator": "postfalk", 
+        "comments": 6, 
+        "dateCreated": "2/26", 
+        "dateClosed": "3/11", 
+        "dateUpdated": "3/11", 
+        "issue": 18
+    }, 
+    {
+        "title": "Agenda for Feb 25, 2015 Meeting", 
+        "creator": "davclark", 
+        "comments": 4, 
+        "dateCreated": "2/25", 
+        "dateClosed": "2/25", 
+        "dateUpdated": "2/25", 
+        "issue": 19
+    }, 
+    {
+        "title": "Prepare DSE-oriented proposal to get on the same page with Neal Davies", 
+        "creator": "davclark", 
+        "comments": 2, 
+        "dateCreated": "2/24", 
+        "dateClosed": "3/11", 
+        "dateUpdated": "3/12", 
+        "issue": 20
+    }, 
+    {
+        "title": "Send draft project / milestone document to Siemens", 
+        "creator": "davclark", 
+        "comments": 1, 
+        "dateCreated": "2/24", 
+        "dateClosed": "3/11", 
+        "dateUpdated": "3/11", 
+        "issue": 21
+    }, 
+    {
+        "title": "Write adapter for GitHub API to ASBase", 
+        "creator": "davclark", 
+        "comments": 31, 
+        "dateCreated": "2/24", 
+        "dateClosed": null, 
+        "dateUpdated": "3/12", 
+        "issue": 22
+    }, 
+    {
+        "title": "Collect list of sensor-oriented webpages/services", 
+        "creator": "postfalk", 
+        "comments": 0, 
+        "dateCreated": "2/24", 
+        "dateClosed": null, 
+        "dateUpdated": "2/25", 
+        "issue": 23
+    }, 
+    {
+        "title": "Wire up BlueTooth to Arduinos", 
+        "creator": "postfalk", 
+        "comments": 3, 
+        "dateCreated": "2/19", 
+        "dateClosed": null, 
+        "dateUpdated": "3/7", 
+        "issue": 24
+    }, 
+    {
+        "title": "Collect list of on-campus maker resources", 
+        "creator": "davclark", 
+        "comments": 5, 
+        "dateCreated": "2/18", 
+        "dateClosed": null, 
+        "dateUpdated": "2/25", 
+        "issue": 25
+    }, 
+    {
+        "title": "Investigate using mobile phone as sensor or bluetooth hub for our dedicated sensors", 
+        "creator": "davclark", 
+        "comments": 4, 
+        "dateCreated": "2/18", 
+        "dateClosed": null, 
+        "dateUpdated": "2/25", 
+        "issue": 26
+    }, 
+    {
+        "title": "Develop initial dashboard mock-up", 
+        "creator": "davclark", 
+        "comments": 1, 
+        "dateCreated": "2/18", 
+        "dateClosed": null, 
+        "dateUpdated": "3/7", 
+        "issue": 27
+    }, 
+    {
+        "title": "Collect lessons / resources from existing projects", 
+        "creator": "davclark", 
+        "comments": 2, 
+        "dateCreated": "2/18", 
+        "dateClosed": null, 
+        "dateUpdated": "2/25", 
+        "issue": 28
+    }, 
+    {
+        "title": "Discuss requirements", 
+        "creator": "postfalk", 
+        "comments": 3, 
+        "dateCreated": "2/12", 
+        "dateClosed": "3/4", 
+        "dateUpdated": "3/4", 
+        "issue": 29
+    }, 
+    {
+        "title": "Do you have an empty ansible project structure we could bootstrap?", 
+        "creator": "postfalk", 
+        "comments": 3, 
+        "dateCreated": "2/10", 
+        "dateClosed": "2/12", 
+        "dateUpdated": "2/12", 
+        "issue": 30
+    }, 
+    {
+        "title": "Things to learn for sensing", 
+        "creator": "postfalk", 
+        "comments": 0, 
+        "dateCreated": "2/10", 
+        "dateClosed": null, 
+        "dateUpdated": "3/12", 
+        "issue": 31
+    }, 
+    {
+        "title": "Get URAP students signed up for space-hackers", 
+        "creator": "davclark", 
+        "comments": 4, 
+        "dateCreated": "2/10", 
+        "dateClosed": "2/13", 
+        "dateUpdated": "2/13", 
+        "issue": 32
+    }, 
+    {
+        "title": "Places for sensor dumps", 
+        "creator": "postfalk", 
+        "comments": 0, 
+        "dateCreated": "2/10", 
+        "dateClosed": null, 
+        "dateUpdated": "2/10", 
+        "issue": 33
+    }, 
+    {
+        "title": "Address privacy concerns/develop policies", 
+        "creator": "postfalk", 
+        "comments": 2, 
+        "dateCreated": "2/10", 
+        "dateClosed": "2/13", 
+        "dateUpdated": "2/13", 
+        "issue": 34
+    }, 
+    {
+        "title": "Initial framework for coordination", 
+        "creator": "davclark", 
+        "comments": 2, 
+        "dateCreated": "2/9", 
+        "dateClosed": "3/7", 
+        "dateUpdated": "3/7", 
+        "issue": 35
+    }, 
+    {
+        "title": "Basic supplies", 
+        "creator": "davclark", 
+        "comments": 7, 
+        "dateCreated": "2/9", 
+        "dateClosed": null, 
+        "dateUpdated": "2/20", 
+        "issue": 36
+    }, 
+    {
+        "title": "Get gateway server", 
+        "creator": "davclark", 
+        "comments": 1, 
+        "dateCreated": "2/9", 
+        "dateClosed": null, 
+        "dateUpdated": "2/9", 
+        "issue": 37
+    }
+]
