@@ -1,0 +1,214 @@
+{
+    "links": [
+        {
+            "source": 0, 
+            "target": 1, 
+            "value": 39
+        }, 
+        {
+            "source": 2, 
+            "target": 3, 
+            "value": 35
+        }, 
+        {
+            "source": 4, 
+            "target": 3, 
+            "value": 25
+        }, 
+        {
+            "source": 3, 
+            "target": 5, 
+            "value": 21
+        }, 
+        {
+            "source": 6, 
+            "target": 7, 
+            "value": 18
+        }, 
+        {
+            "source": 8, 
+            "target": 9, 
+            "value": 15
+        }, 
+        {
+            "source": 10, 
+            "target": 1, 
+            "value": 15
+        }, 
+        {
+            "source": 11, 
+            "target": 12, 
+            "value": 14
+        }, 
+        {
+            "source": 1, 
+            "target": 13, 
+            "value": 13
+        }, 
+        {
+            "source": 14, 
+            "target": 7, 
+            "value": 12
+        }, 
+        {
+            "source": 15, 
+            "target": 7, 
+            "value": 11
+        }, 
+        {
+            "source": 16, 
+            "target": 0, 
+            "value": 11
+        }, 
+        {
+            "source": 17, 
+            "target": 18, 
+            "value": 10
+        }, 
+        {
+            "source": 9, 
+            "target": 1, 
+            "value": 10
+        }, 
+        {
+            "source": 19, 
+            "target": 20, 
+            "value": 10
+        }, 
+        {
+            "source": 21, 
+            "target": 22, 
+            "value": 8
+        }, 
+        {
+            "source": 23, 
+            "target": 24, 
+            "value": 7
+        }, 
+        {
+            "source": 24, 
+            "target": 18, 
+            "value": 7
+        }, 
+        {
+            "source": 25, 
+            "target": 6, 
+            "value": 5
+        }, 
+        {
+            "source": 26, 
+            "target": 7, 
+            "value": 4
+        }
+    ], 
+    "nodes": [
+        {
+            "group": 0, 
+            "name": "german"
+        }, 
+        {
+            "group": 1, 
+            "name": "irish"
+        }, 
+        {
+            "group": 2, 
+            "name": "asian"
+        }, 
+        {
+            "group": 3, 
+            "name": "indian"
+        }, 
+        {
+            "group": 4, 
+            "name": "american"
+        }, 
+        {
+            "group": 5, 
+            "name": "south_asian"
+        }, 
+        {
+            "group": 6, 
+            "name": "mixed"
+        }, 
+        {
+            "group": 7, 
+            "name": "white"
+        }, 
+        {
+            "group": 8, 
+            "name": "canadian"
+        }, 
+        {
+            "group": 9, 
+            "name": "french"
+        }, 
+        {
+            "group": 10, 
+            "name": "english"
+        }, 
+        {
+            "group": 11, 
+            "name": "cape"
+        }, 
+        {
+            "group": 12, 
+            "name": "verdean"
+        }, 
+        {
+            "group": 13, 
+            "name": "scottish"
+        }, 
+        {
+            "group": 14, 
+            "name": "hispanic"
+        }, 
+        {
+            "group": 15, 
+            "name": "black"
+        }, 
+        {
+            "group": 16, 
+            "name": "dutch"
+        }, 
+        {
+            "group": 17, 
+            "name": "arab"
+        }, 
+        {
+            "group": 18, 
+            "name": "middle_eastern"
+        }, 
+        {
+            "group": 19, 
+            "name": "italian"
+        }, 
+        {
+            "group": 20, 
+            "name": "spanish"
+        }, 
+        {
+            "group": 21, 
+            "name": "european"
+        }, 
+        {
+            "group": 22, 
+            "name": "northern"
+        }, 
+        {
+            "group": 23, 
+            "name": "eastern_european"
+        }, 
+        {
+            "group": 24, 
+            "name": "jewish"
+        }, 
+        {
+            "group": 25, 
+            "name": "asian_american"
+        }, 
+        {
+            "group": 26, 
+            "name": "mexican"
+        }
+    ]
+}
